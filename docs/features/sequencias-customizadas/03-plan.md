@@ -78,7 +78,7 @@
      de itens e de ordem. Testar também
      `/similares?sequencia=XXYY` → `[]` e `Content-Type: text/html`.
 
-5. [ ] **Adicionar `GET /sequencias`, `POST /sequencias` e `sequencia_id`.**
+5. [x] **Adicionar `GET /sequencias`, `POST /sequencias` e `sequencia_id`.**
    - `GET /sequencias`: listar o catálogo por `id` no formato
      `{"id", "nome", "acordes", "origem"}`, com `acordes` separados por `;`.
    - `POST /sequencias`: exigir JSON com `acordes` não vazio, no máximo 32 itens

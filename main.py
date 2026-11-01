@@ -161,12 +161,60 @@ def get_acordes():
 def get_musica(m_id):
     return json.dumps(musicas[m_id].__dict__)
 
+def serializar_sequencia(linha):
+    return {
+        'id': linha['id'],
+        'nome': linha['name'],
+        'acordes': linha['chords'],
+        'origem': linha['source'],
+    }
+
+@app.route('/sequencias', methods=['GET', 'POST'])
+def sequencias():
+    if request.method == 'GET':
+        return json.dumps([serializar_sequencia(linha) for linha in db.listar()])
+
+    payload = request.get_json(silent=True)
+    if not isinstance(payload, dict):
+        return json.dumps({'erro': 'corpo JSON obrigatório'}), 400
+
+    acordes = payload.get('acordes')
+    if not isinstance(acordes, list) or len(acordes) == 0:
+        return json.dumps({'erro': 'acordes deve ser uma lista não vazia'}), 400
+    if len(acordes) > 32:
+        return json.dumps({'erro': 'no máximo 32 acordes'}), 400
+
+    limpos = []
+    for acorde in acordes:
+        if not isinstance(acorde, str):
+            return json.dumps({'erro': 'cada acorde deve ser texto'}), 400
+        acorde = acorde.strip()
+        if not 1 <= len(acorde) <= 20:
+            return json.dumps({'erro': 'cada acorde deve ter de 1 a 20 caracteres'}), 400
+        if ';' in acorde:
+            return json.dumps({'erro': 'acorde não pode conter ";"'}), 400
+        limpos.append(acorde)
+
+    nome = payload.get('nome')
+    if nome is not None:
+        if not isinstance(nome, str):
+            return json.dumps({'erro': 'nome deve ser texto'}), 400
+        nome = nome.strip()
+        if len(nome) > 80:
+            return json.dumps({'erro': 'nome deve ter no máximo 80 caracteres'}), 400
+        if not nome:
+            nome = None
+
+    linha = db.criar_sequencia(limpos, nome)
+    return json.dumps(serializar_sequencia(linha)), 201
+
 @app.route('/similares')
 def get_similares():
     # tratando request
     acordes_tag = request.args.get('acordes')
     id_musica_tag = request.args.get('id_unico_musica')
     sequencia_tag = request.args.get('sequencia')
+    sequencia_id_tag = request.args.get('sequencia_id')
     pagina_tag = request.args.get('pagina','1')
 
     # se não existir, filtra por todos.
@@ -181,6 +229,21 @@ def get_similares():
     elif id_musica_tag:
         musica = musicas[id_musica_tag]
         acordes = musica.acordes
+    elif sequencia_id_tag is not None:
+        similares = []
+
+        try:
+            id_seq = int(sequencia_id_tag)
+        except (TypeError, ValueError):
+            return json.dumps([])
+
+        sequencia = db.obter_por_id(id_seq)
+        if sequencia is not None:
+            acordes_sequencia = sequencia['chords'].split(';')
+            similares = get_pagina(
+                get_similares_por_sequencia(acordes_sequencia, generos_key),
+                pagina_tag)
+        return json.dumps(similares)
     elif sequencia_tag:
         chave = sequencia_tag.replace(',','')
         similares = []
