@@ -3,18 +3,18 @@
   "paginas": [
     [
       {
-        "id_unico_musica": "marcelo-d2_mao-na-cabeca",
-        "id_artista": "marcelo-d2",
+        "id_unico_musica": "planet-hemp_mao-na-cabeca",
+        "id_artista": "planet-hemp",
         "id_musica": "mao-na-cabeca",
-        "nome_artista": "Marcelo D2",
+        "nome_artista": "Planet Hemp",
         "nome_musica": "Mão Na Cabeça",
-        "popularidade": 4327,
+        "popularidade": 9934,
         "acordes": [
-          "G",
-          "Em"
+          "Em",
+          "G"
         ],
-        "genero": "Hip Hop/Rap",
-        "url": "http://www.cifraclub.com.br/marcelo-d2/mao-na-cabeca"
+        "genero": "Hardcore",
+        "url": "http://www.cifraclub.com.br/planet-hemp/mao-na-cabeca"
       },
       {
         "id_unico_musica": "ultraje-a-rigor_inutil",
@@ -24,8 +24,8 @@
         "nome_musica": "Inútil",
         "popularidade": 291127,
         "acordes": [
-          "G",
-          "Em"
+          "Em",
+          "G"
         ],
         "genero": "Rock",
         "url": "http://www.cifraclub.com.br/ultraje-a-rigor/inutil"
@@ -38,25 +38,25 @@
         "nome_musica": "Fall Like Rain",
         "popularidade": 2021,
         "acordes": [
-          "G",
-          "Em"
+          "Em",
+          "G"
         ],
         "genero": "Rock",
         "url": "http://www.cifraclub.com.br/eric-clapton/fall-like-rain"
       },
       {
-        "id_unico_musica": "planet-hemp_mao-na-cabeca",
-        "id_artista": "planet-hemp",
+        "id_unico_musica": "marcelo-d2_mao-na-cabeca",
+        "id_artista": "marcelo-d2",
         "id_musica": "mao-na-cabeca",
-        "nome_artista": "Planet Hemp",
+        "nome_artista": "Marcelo D2",
         "nome_musica": "Mão Na Cabeça",
-        "popularidade": 9934,
+        "popularidade": 4327,
         "acordes": [
-          "G",
-          "Em"
+          "Em",
+          "G"
         ],
-        "genero": "Hardcore",
-        "url": "http://www.cifraclub.com.br/planet-hemp/mao-na-cabeca"
+        "genero": "Hip Hop/Rap",
+        "url": "http://www.cifraclub.com.br/marcelo-d2/mao-na-cabeca"
       }
     ],
     []

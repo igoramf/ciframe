@@ -19,6 +19,12 @@
      `199, 296, 4, 5, 7, 3` e as páginas forem `2, 3, 1, 1, 1, 1`.
    - Se os números divergirem da pesquisa, parar e conferir porta, imagem,
      dataset e hash do CSV — não ajustar o baseline para “fazer passar”.
+   - **Nota de reprodução:** a ordem de `generos` vem de `list(set(...))`
+     (`main.py:92`) e varia com `PYTHONHASHSEED`. Captura e comparação usam o
+     servidor com `PYTHONHASHSEED=0`. O baseline foi capturado primeiro com o
+     código original; depois o comparador acusou apenas diferença de ordem, e
+     o baseline foi refeito a partir do commit `5c70e4a` (código anterior a
+     qualquer mudança) no mesmo seed. Conjunto de IDs e totais não mudaram.
    - **Verificação:** `comparar_baseline_similares.py` retorna sucesso contra o
      próprio baseline recém-capturado. Commitar os artefatos antes do passo 2.
 
@@ -54,7 +60,7 @@
    - **Verificação:** `python3 -m unittest tests.test_db -v` passa; o banco de
      teste é temporário e não cria `instance/` no repositório.
 
-4. [ ] **Trocar a tag pelo matcher no caminho por sequência, mantendo a URL antiga.**
+4. [x] **Trocar a tag pelo matcher no caminho por sequência, mantendo a URL antiga.**
    - Em `musica.py`, remover o parâmetro e o atributo `seqs_famosas`.
    - Em `main.py`, parar de dividir a coluna 7 e de passá-la ao construtor;
      remover a constante `SEQ_FAMOSA` se ficar sem uso. A coluna do CSV e
@@ -68,7 +74,8 @@
      vírgulas, para que `Bm,G,D,A` continue virando `BmGDA`; chave desconhecida
      continua devolvendo `[]` com HTTP 200.
    - **Verificação:** rodar `scripts/comparar_baseline_similares.py` contra as 6
-     chaves antigas; zero diferenças de itens e de ordem. Testar também
+     chaves antigas com o servidor novo em `PYTHONHASHSEED=0`; zero diferenças
+     de itens e de ordem. Testar também
      `/similares?sequencia=XXYY` → `[]` e `Content-Type: text/html`.
 
 5. [ ] **Adicionar `GET /sequencias`, `POST /sequencias` e `sequencia_id`.**
@@ -179,7 +186,7 @@ Sem mudança: `requirements.txt` (SQLite é da biblioteca padrão),
 | Risco | Como perceber | O que fazer |
 |---|---|---|
 | Baseline capturado com dataset, porta ou imagem diferente | Totais diferentes de `199, 296, 4, 5, 7, 3` ou hash do CSV diferente | Parar antes de codar; conferir `docker build`, `GET /generos`, caminho do CSV e hash; recapturar |
-| Ordem dos resultados mudar no refactor | Comparador acusa divergência apenas de ordem | Não ordenar para “consertar”; revisar iteração de `musicas.values()`, `apply_filtro` e `get_pagina` |
+| Ordem dos resultados mudar no refactor | Comparador acusa divergência apenas de ordem | Não ordenar para “consertar”; revisar iteração de `musicas.values()`, `apply_filtro` e `get_pagina`. Confirmar que os dois lados rodam com o mesmo `PYTHONHASHSEED` (`0`), pois a ordem de `generos` vem de `list(set(...))` |
 | Remoção da tag quebrar o caminho legado | Comparador falha logo após o passo 4 | Fazer seed + lookup por `legacy_key` + matcher no mesmo passo; manter o `replace(',', '')` |
 | SQLite bloqueado ou perdido | `database is locked` ou catálogo vazio após recriar o container | `busy_timeout`, conexão por operação, 1 worker e teste real com volume nomeado |
 | Validação divergir do contrato (duplicata, limites) | Testes de API falham no 201/400 | Seguir a proposta: normalizar só `strip`+`lower`, duplicata devolve a linha existente |

@@ -11,6 +11,10 @@ Requer apenas a biblioteca padrao (Python 3).
 
 Uso:
     python3 scripts/comparar_baseline_similares.py [--base-url URL] [--dir DIR]
+
+Nota: o baseline foi capturado com o servidor em `PYTHONHASHSEED=0`, porque a
+ordem de `generos` (`list(set(...))` em `main.py`) depende do hash seed do
+processo. Rode o servidor comparado com o mesmo seed.
 """
 
 import argparse
@@ -138,6 +142,11 @@ def main():
         print('%-8s ok (total=%d, paginas=%d)' % (
             baseline['sequencia'], baseline['total'],
             baseline['paginas_nao_vazias']))
+
+    seed = resumo.get('pythonhashseed', '')
+    if seed != '0':
+        print('aviso: baseline registrado com PYTHONHASHSEED=%r; o servidor '
+              'comparado precisa usar o mesmo seed' % seed, file=sys.stderr)
 
     print('baseline ok: 6 sequencias identicas item a item, na mesma ordem')
     return 0

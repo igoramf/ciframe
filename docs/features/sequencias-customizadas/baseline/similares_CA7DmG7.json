@@ -10,10 +10,10 @@
         "nome_musica": "Na Aba",
         "popularidade": 19877,
         "acordes": [
-          "Dm",
           "A7",
-          "G7",
-          "C"
+          "C",
+          "Dm",
+          "G7"
         ],
         "genero": "Samba",
         "url": "http://www.cifraclub.com.br/martinho-da-vila/na-aba"
@@ -26,10 +26,10 @@
         "nome_musica": "Bendito Seja",
         "popularidade": 9206,
         "acordes": [
-          "Dm",
           "A7",
-          "G7",
-          "C"
+          "C",
+          "Dm",
+          "G7"
         ],
         "genero": "Samba",
         "url": "http://www.cifraclub.com.br/benito-di-paula/bendito-seja"
@@ -42,10 +42,10 @@
         "nome_musica": "Vai Pro Lado de Cá",
         "popularidade": 4815,
         "acordes": [
-          "Dm",
           "A7",
-          "G7",
-          "C"
+          "C",
+          "Dm",
+          "G7"
         ],
         "genero": "Samba",
         "url": "http://www.cifraclub.com.br/arlindo-cruz/vai-pro-lado-de-ca"
@@ -58,10 +58,10 @@
         "nome_musica": "Requebre que Eu Dou um Doce",
         "popularidade": 3822,
         "acordes": [
-          "Dm",
           "A7",
-          "G7",
-          "C"
+          "C",
+          "Dm",
+          "G7"
         ],
         "genero": "Samba",
         "url": "http://www.cifraclub.com.br/dorival-caymmi/requebre-que-eu-dou-um-doce"
@@ -74,10 +74,10 @@
         "nome_musica": "Na Aba",
         "popularidade": 2227,
         "acordes": [
-          "Dm",
           "A7",
-          "G7",
-          "C"
+          "C",
+          "Dm",
+          "G7"
         ],
         "genero": "Samba",
         "url": "http://www.cifraclub.com.br/bezerra-da-silva/na-aba"

@@ -3,32 +3,46 @@
   "paginas": [
     [
       {
-        "id_unico_musica": "shakira_rabiosa",
-        "id_artista": "shakira",
-        "id_musica": "rabiosa",
-        "nome_artista": "Shakira",
-        "nome_musica": "Rabiosa",
-        "popularidade": 19924,
+        "id_unico_musica": "sergio-lopes_carta-a-sardes",
+        "id_artista": "sergio-lopes",
+        "id_musica": "carta-a-sardes",
+        "nome_artista": "Sérgio Lopes",
+        "nome_musica": "Carta À Sardes",
+        "popularidade": 169,
         "acordes": [
-          "Gm",
-          "F"
+          "F",
+          "Gm"
         ],
-        "genero": "Pop",
-        "url": "http://www.cifraclub.com.br/shakira/rabiosa"
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/sergio-lopes/carta-a-sardes"
       },
       {
-        "id_unico_musica": "avioes-do-forro_piriri-pom-pom",
-        "id_artista": "avioes-do-forro",
-        "id_musica": "piriri-pom-pom",
-        "nome_artista": "Aviões do Forró",
-        "nome_musica": "Piriri Pom Pom",
-        "popularidade": 18935,
+        "id_unico_musica": "asa-de-aguia_maraja",
+        "id_artista": "asa-de-aguia",
+        "id_musica": "maraja",
+        "nome_artista": "Asa de Águia",
+        "nome_musica": "Marajá",
+        "popularidade": 6837,
         "acordes": [
-          "Gm",
-          "F"
+          "F",
+          "Gm"
         ],
-        "genero": "Forró",
-        "url": "http://www.cifraclub.com.br/avioes-do-forro/piriri-pom-pom"
+        "genero": "Axé",
+        "url": "http://www.cifraclub.com.br/asa-de-aguia/maraja"
+      },
+      {
+        "id_unico_musica": "oriente_fe",
+        "id_artista": "oriente",
+        "id_musica": "fe",
+        "nome_artista": "Oriente",
+        "nome_musica": "Fé",
+        "popularidade": 23029,
+        "acordes": [
+          "F",
+          "Gm"
+        ],
+        "genero": "Hip Hop/Rap",
+        "url": "http://www.cifraclub.com.br/oriente/fe"
       },
       {
         "id_unico_musica": "raca-negra_cheia-de-manias",
@@ -38,8 +52,8 @@
         "nome_musica": "Cheia de Manias",
         "popularidade": 469306,
         "acordes": [
-          "Gm",
-          "F"
+          "F",
+          "Gm"
         ],
         "genero": "Pagode",
         "url": "http://www.cifraclub.com.br/raca-negra/cheia-de-manias"
@@ -52,53 +66,39 @@
         "nome_musica": "Cheias de Manias",
         "popularidade": 11487,
         "acordes": [
-          "Gm",
-          "F"
+          "F",
+          "Gm"
         ],
         "genero": "Pagode",
         "url": "http://www.cifraclub.com.br/raca-negra/cheias-de-manias"
       },
       {
-        "id_unico_musica": "asa-de-aguia_maraja",
-        "id_artista": "asa-de-aguia",
-        "id_musica": "maraja",
-        "nome_artista": "Asa de Águia",
-        "nome_musica": "Marajá",
-        "popularidade": 6837,
+        "id_unico_musica": "avioes-do-forro_piriri-pom-pom",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "piriri-pom-pom",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "Piriri Pom Pom",
+        "popularidade": 18935,
         "acordes": [
-          "Gm",
-          "F"
+          "F",
+          "Gm"
         ],
-        "genero": "Axé",
-        "url": "http://www.cifraclub.com.br/asa-de-aguia/maraja"
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/piriri-pom-pom"
       },
       {
-        "id_unico_musica": "sergio-lopes_carta-a-sardes",
-        "id_artista": "sergio-lopes",
-        "id_musica": "carta-a-sardes",
-        "nome_artista": "Sérgio Lopes",
-        "nome_musica": "Carta À Sardes",
-        "popularidade": 169,
+        "id_unico_musica": "shakira_rabiosa",
+        "id_artista": "shakira",
+        "id_musica": "rabiosa",
+        "nome_artista": "Shakira",
+        "nome_musica": "Rabiosa",
+        "popularidade": 19924,
         "acordes": [
-          "Gm",
-          "F"
+          "F",
+          "Gm"
         ],
-        "genero": "Gospel/Religioso",
-        "url": "http://www.cifraclub.com.br/sergio-lopes/carta-a-sardes"
-      },
-      {
-        "id_unico_musica": "oriente_fe",
-        "id_artista": "oriente",
-        "id_musica": "fe",
-        "nome_artista": "Oriente",
-        "nome_musica": "Fé",
-        "popularidade": 23029,
-        "acordes": [
-          "Gm",
-          "F"
-        ],
-        "genero": "Hip Hop/Rap",
-        "url": "http://www.cifraclub.com.br/oriente/fe"
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/shakira/rabiosa"
       }
     ],
     []

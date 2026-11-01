@@ -5,6 +5,8 @@ import sys
 from musica import *
 from collections import OrderedDict
 import unicodedata
+import db
+import matching
 
 app = Flask(__name__)
 
@@ -30,19 +32,14 @@ MUSICA = 3
 GENERO = 4
 POPULARIDADE = 5
 TOM = 6
-SEQ_FAMOSA = 7
 CIFRA = 8
 TAM_PAGINA = 100
 
 genero_musicas = {}
 generos = set()
 acordes = set()
-sequencias = {'BmGDA' : 0,
-        'CGAmF' : 1,
-        'EmG' : 2,
-        'CA7DmG7' : 3,
-        'GmF' : 4,
-        'CC7FFm' : 5}
+
+db.init_db()
 
 musicas_dict = {}
 
@@ -60,16 +57,13 @@ for line in f:
     else:
         musica[CIFRA] = []
 
-    musica[SEQ_FAMOSA] = musica[SEQ_FAMOSA].split(";")
-
     # conjunto único de gêneros
     generos.add(musica[GENERO])
 
     # inclui música no dict de músicas
     musica_obj = Musica(musica[ARTISTA_ID], musica[ARTISTA],
             musica[MUSICA_ID], musica[MUSICA], musica[GENERO],
-            int(musica[POPULARIDADE]), musica[SEQ_FAMOSA],
-            musica[TOM], musica[CIFRA])
+            int(musica[POPULARIDADE]), musica[TOM], musica[CIFRA])
 
     musicas_dict[musica_obj.id_unico_musica] = musica_obj
 
@@ -188,25 +182,28 @@ def get_similares():
         musica = musicas[id_musica_tag]
         acordes = musica.acordes
     elif sequencia_tag:
-        acordes = sequencia_tag.replace(',','')
+        chave = sequencia_tag.replace(',','')
         similares = []
 
-        if acordes in sequencias:
-            id_seq = sequencias[acordes]
-            similares = get_pagina(get_similares_por_sequencia(id_seq, generos_key), pagina_tag)
+        sequencia = db.obter_por_legacy_key(chave)
+        if sequencia is not None:
+            acordes_sequencia = sequencia['chords'].split(';')
+            similares = get_pagina(
+                get_similares_por_sequencia(acordes_sequencia, generos_key),
+                pagina_tag)
         return json.dumps(similares)
 
     similares = get_similares(acordes, generos_key, id_musica_tag)
 
     return json.dumps(get_pagina(similares, pagina_tag))
 
-def get_similares_por_sequencia(id_seq, generos_key):
+def get_similares_por_sequencia(acordes_sequencia, generos_key):
     # filtra para melhor desempenho
     collection = apply_filtro(musicas.values(), generos_key)
 
     similares = []
     for musica in collection:
-        if str(id_seq) in musica.seqs_famosas:
+        if matching.corresponde(musica.cifra, acordes_sequencia):
             similar = {
                 'id_unico_musica' : musica.id_unico_musica,
                 'id_artista' : musica.id_artista,

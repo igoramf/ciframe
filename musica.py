@@ -1,8 +1,7 @@
 class Musica:
 
     def __init__(self, id_artista, nome_artista, id_musica, nome_musica,
-    
-            genero, popularidade, seqs_famosas, tom, cifra):
+            genero, popularidade, tom, cifra):
 
             self.id_artista = id_artista
             self.nome_artista = nome_artista
@@ -15,7 +14,6 @@ class Musica:
             self.tom = tom
             self.cifra = cifra
             self.acordes = list(set(cifra))
-            self.seqs_famosas = seqs_famosas
 
             self.id_unico_musica = '%s_%s' % (id_artista, id_musica)
 

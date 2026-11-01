@@ -11,6 +11,11 @@ Requer apenas a biblioteca padrao (Python 3). Nao importa Flask nem `main.py`.
 
 Uso:
     python3 scripts/capturar_baseline_similares.py [--base-url URL] [--dir DIR]
+
+Nota: a ordem dos resultados de `/similares` depende da ordem de `generos`,
+que vem de `list(set(...))` em `main.py` e varia com `PYTHONHASHSEED`. Para o
+baseline ser reproduzivel entre processos, o servidor deve rodar com
+`PYTHONHASHSEED=0` (ex.: `docker run -e PYTHONHASHSEED=0 ...`).
 """
 
 import argparse
@@ -91,6 +96,10 @@ def main():
 
     resumo = {
         'base_url': args.base_url,
+        'pythonhashseed': os.environ.get('PYTHONHASHSEED', ''),
+        'observacao': (
+            'a ordem dos resultados depende do PYTHONHASHSEED do servidor; '
+            'capture e compare com o servidor em PYTHONHASHSEED=0'),
         'sequencias': [],
         'csv': {
             'caminho': os.path.relpath(args.csv, RAIZ),

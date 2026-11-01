@@ -1,16 +1,18 @@
 {
-  "base_url": "http://localhost:8080",
+  "base_url": "http://localhost:8081",
   "csv": {
     "caminho": "data/top/dataset_final.csv",
     "sha256": "5f94f49b945ffac76f9a114b353b51d6a07b9e6feeb1243ce5989295234b9207"
   },
+  "observacao": "a ordem dos resultados depende do PYTHONHASHSEED do servidor; capture e compare com o servidor em PYTHONHASHSEED=0",
+  "pythonhashseed": "0",
   "sequencias": [
     {
       "arquivo": "similares_BmGDA.json",
       "paginas": 2,
       "requisicoes": 3,
       "sequencia": "BmGDA",
-      "sha256": "f6962f7fcbc535a484da9fdb9dbd709ef83211335973eca4132a0c9fc31aa51c",
+      "sha256": "c7c9b81a6bf49da40db921b69bd4bdb8e6661c8b9481cc917f7171c60cdffd63",
       "total": 199
     },
     {
@@ -18,7 +20,7 @@
       "paginas": 3,
       "requisicoes": 4,
       "sequencia": "CGAmF",
-      "sha256": "d7dabd8d531f2ce4ee1f970938a586203f50e7c4547ee14003bc54288e8affcf",
+      "sha256": "4f9f9eee5598277fca346be7ff0a20ea737bada030f96df6ae1200b7bd98b185",
       "total": 296
     },
     {
@@ -26,7 +28,7 @@
       "paginas": 1,
       "requisicoes": 2,
       "sequencia": "EmG",
-      "sha256": "a950a2a8ec98968b781a002adeeb73f5c99d9f447f22e31a1a5913e0fd8daeb8",
+      "sha256": "fcc9fb83aec29ed05ac5ea5931c87e7487a7b44505c1911bcf4e19858cd20fe3",
       "total": 4
     },
     {
@@ -34,7 +36,7 @@
       "paginas": 1,
       "requisicoes": 2,
       "sequencia": "CA7DmG7",
-      "sha256": "b8914fe684f5e98b3381328f8afef7c0a7cfae5eadf91af708ffb931ea1976cd",
+      "sha256": "ee7f87f5e2a00b059b72d6773bdb01bf575b1137218e15dffc0e68771cfe4043",
       "total": 5
     },
     {
@@ -42,7 +44,7 @@
       "paginas": 1,
       "requisicoes": 2,
       "sequencia": "GmF",
-      "sha256": "d17d5e90a26547d08954e8a5aeaed1fe0eeacdb79167345e9712ffb0ed4bac50",
+      "sha256": "08afbe09cedc8075064e93af7f96f0d59219077c5627323c8b8820488d44b1b1",
       "total": 7
     },
     {
@@ -50,7 +52,7 @@
       "paginas": 1,
       "requisicoes": 2,
       "sequencia": "CC7FFm",
-      "sha256": "4792cece70ffe4c4064a6cfe1d7db1160cc9db54268c21f1559be30584ab4e84",
+      "sha256": "ebaf751b3550f11b06fdad7f29a99b8317394c421b8637ef56e82091b8caa264",
       "total": 3
     }
   ]
