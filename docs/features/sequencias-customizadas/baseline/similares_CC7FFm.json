@@ -1,0 +1,56 @@
+{
+  "sequencia": "CC7FFm",
+  "paginas": [
+    [
+      {
+        "id_unico_musica": "exaltasamba-musicas_jogo-de-seducao",
+        "id_artista": "exaltasamba-musicas",
+        "id_musica": "jogo-de-seducao",
+        "nome_artista": "Exaltasamba",
+        "nome_musica": "Jogo de Sedução",
+        "popularidade": 235078,
+        "acordes": [
+          "F",
+          "C7",
+          "C",
+          "Fm"
+        ],
+        "genero": "Pagode",
+        "url": "http://www.cifraclub.com.br/exaltasamba-musicas/jogo-de-seducao"
+      },
+      {
+        "id_unico_musica": "revelacao_jogo-de-seducao",
+        "id_artista": "revelacao",
+        "id_musica": "jogo-de-seducao",
+        "nome_artista": "Revelação",
+        "nome_musica": "Jogo de Sedução",
+        "popularidade": 83084,
+        "acordes": [
+          "F",
+          "C7",
+          "C",
+          "Fm"
+        ],
+        "genero": "Pagode",
+        "url": "http://www.cifraclub.com.br/revelacao/jogo-de-seducao"
+      },
+      {
+        "id_unico_musica": "claudia-leitte_bem-vindo-amor",
+        "id_artista": "claudia-leitte",
+        "id_musica": "bem-vindo-amor",
+        "nome_artista": "Claudia Leitte",
+        "nome_musica": "Bem Vindo Amor",
+        "popularidade": 41621,
+        "acordes": [
+          "F",
+          "C7",
+          "C",
+          "Fm"
+        ],
+        "genero": "Axé",
+        "url": "http://www.cifraclub.com.br/claudia-leitte/bem-vindo-amor"
+      }
+    ],
+    []
+  ]
+}

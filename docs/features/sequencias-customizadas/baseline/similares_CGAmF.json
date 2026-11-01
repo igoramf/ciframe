@@ -1,0 +1,4748 @@
+{
+  "sequencia": "CGAmF",
+  "paginas": [
+    [
+      {
+        "id_unico_musica": "justin-bieber_love-me",
+        "id_artista": "justin-bieber",
+        "id_musica": "love-me",
+        "nome_artista": "Justin Bieber",
+        "nome_musica": "Love Me",
+        "popularidade": 94575,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/justin-bieber/love-me"
+      },
+      {
+        "id_unico_musica": "justin-bieber_eenie-meenie",
+        "id_artista": "justin-bieber",
+        "id_musica": "eenie-meenie",
+        "nome_artista": "Justin Bieber",
+        "nome_musica": "Eenie Meenie",
+        "popularidade": 67726,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/justin-bieber/eenie-meenie"
+      },
+      {
+        "id_unico_musica": "one-direction_they-dont-know-about-us",
+        "id_artista": "one-direction",
+        "id_musica": "they-dont-know-about-us",
+        "nome_artista": "One Direction",
+        "nome_musica": "They Don't Know About Us",
+        "popularidade": 49772,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/one-direction/they-dont-know-about-us"
+      },
+      {
+        "id_unico_musica": "taylor-swift_sparks-fly",
+        "id_artista": "taylor-swift",
+        "id_musica": "sparks-fly",
+        "nome_artista": "Taylor Swift",
+        "nome_musica": "Sparks Fly",
+        "popularidade": 42982,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/taylor-swift/sparks-fly"
+      },
+      {
+        "id_unico_musica": "justin-bieber_nothing-like-us",
+        "id_artista": "justin-bieber",
+        "id_musica": "nothing-like-us",
+        "nome_artista": "Justin Bieber",
+        "nome_musica": "Nothing Like Us",
+        "popularidade": 36885,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/justin-bieber/nothing-like-us"
+      },
+      {
+        "id_unico_musica": "taylor-swift_bad-blood",
+        "id_artista": "taylor-swift",
+        "id_musica": "bad-blood",
+        "nome_artista": "Taylor Swift",
+        "nome_musica": "Bad Blood",
+        "popularidade": 36297,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/taylor-swift/bad-blood"
+      },
+      {
+        "id_unico_musica": "one-direction_last-first-kiss",
+        "id_artista": "one-direction",
+        "id_musica": "last-first-kiss",
+        "nome_artista": "One Direction",
+        "nome_musica": "Last First Kiss",
+        "popularidade": 27564,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/one-direction/last-first-kiss"
+      },
+      {
+        "id_unico_musica": "one-direction_half-a-heart",
+        "id_artista": "one-direction",
+        "id_musica": "half-a-heart",
+        "nome_artista": "One Direction",
+        "nome_musica": "Half a Heart",
+        "popularidade": 27346,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/one-direction/half-a-heart"
+      },
+      {
+        "id_unico_musica": "justin-bieber_up",
+        "id_artista": "justin-bieber",
+        "id_musica": "up",
+        "nome_artista": "Justin Bieber",
+        "nome_musica": "Up",
+        "popularidade": 26173,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/justin-bieber/up"
+      },
+      {
+        "id_unico_musica": "birdy_not-about-angels",
+        "id_artista": "birdy",
+        "id_musica": "not-about-angels",
+        "nome_artista": "Birdy",
+        "nome_musica": "Not About Angels",
+        "popularidade": 20172,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/birdy/not-about-angels"
+      },
+      {
+        "id_unico_musica": "demi-lovato_stop-the-word",
+        "id_artista": "demi-lovato",
+        "id_musica": "stop-the-word",
+        "nome_artista": "Demi Lovato",
+        "nome_musica": "Stop The World",
+        "popularidade": 19778,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/demi-lovato/stop-the-word"
+      },
+      {
+        "id_unico_musica": "boyce-avenue_perfect",
+        "id_artista": "boyce-avenue",
+        "id_musica": "perfect",
+        "nome_artista": "Boyce Avenue",
+        "nome_musica": "Perfect",
+        "popularidade": 19346,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/boyce-avenue/perfect"
+      },
+      {
+        "id_unico_musica": "glee_umbrella-singin-in-the-rain",
+        "id_artista": "glee",
+        "id_musica": "umbrella-singin-in-the-rain",
+        "nome_artista": "Glee",
+        "nome_musica": "Umbrella / Singin' In The Rain",
+        "popularidade": 17082,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/glee/umbrella-singin-in-the-rain"
+      },
+      {
+        "id_unico_musica": "colbie-caillat_one-fine-wire",
+        "id_artista": "colbie-caillat",
+        "id_musica": "one-fine-wire",
+        "nome_artista": "Colbie Caillat",
+        "nome_musica": "One fine wire",
+        "popularidade": 14500,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/colbie-caillat/one-fine-wire"
+      },
+      {
+        "id_unico_musica": "boyce-avenue_every-breath",
+        "id_artista": "boyce-avenue",
+        "id_musica": "every-breath",
+        "nome_artista": "Boyce Avenue",
+        "nome_musica": "Every Breath",
+        "popularidade": 14133,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/boyce-avenue/every-breath"
+      },
+      {
+        "id_unico_musica": "britney-spears_if-you-seek-amy",
+        "id_artista": "britney-spears",
+        "id_musica": "if-you-seek-amy",
+        "nome_artista": "Britney Spears",
+        "nome_musica": "If You Seek Amy",
+        "popularidade": 13531,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/britney-spears/if-you-seek-amy"
+      },
+      {
+        "id_unico_musica": "justin-bieber_all-i-wanna-is-you",
+        "id_artista": "justin-bieber",
+        "id_musica": "all-i-wanna-is-you",
+        "nome_artista": "Justin Bieber",
+        "nome_musica": "All I Wanna Is You",
+        "popularidade": 12420,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/justin-bieber/all-i-wanna-is-you"
+      },
+      {
+        "id_unico_musica": "rebelde-rbr_a-voz-das-estrelas",
+        "id_artista": "rebelde-rbr",
+        "id_musica": "a-voz-das-estrelas",
+        "nome_artista": "Rebelde",
+        "nome_musica": "A Voz Das Estrelas",
+        "popularidade": 11842,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/rebelde-rbr/a-voz-das-estrelas"
+      },
+      {
+        "id_unico_musica": "one-direction_everything-about-you",
+        "id_artista": "one-direction",
+        "id_musica": "everything-about-you",
+        "nome_artista": "One Direction",
+        "nome_musica": "Everything About You",
+        "popularidade": 11677,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/one-direction/everything-about-you"
+      },
+      {
+        "id_unico_musica": "shakira_this-time-for-africa",
+        "id_artista": "shakira",
+        "id_musica": "this-time-for-africa",
+        "nome_artista": "Shakira",
+        "nome_musica": "This Time For Africa",
+        "popularidade": 11389,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/shakira/this-time-for-africa"
+      },
+      {
+        "id_unico_musica": "fifth-harmony_boss",
+        "id_artista": "fifth-harmony",
+        "id_musica": "boss",
+        "nome_artista": "Fifth Harmony",
+        "nome_musica": "Boss",
+        "popularidade": 8076,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/fifth-harmony/boss"
+      },
+      {
+        "id_unico_musica": "violetta_ser-quien-soy",
+        "id_artista": "violetta",
+        "id_musica": "ser-quien-soy",
+        "nome_artista": "Violetta",
+        "nome_musica": "Ser Quién Soy",
+        "popularidade": 7517,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/violetta/ser-quien-soy"
+      },
+      {
+        "id_unico_musica": "taylor-swift_clean",
+        "id_artista": "taylor-swift",
+        "id_musica": "clean",
+        "nome_artista": "Taylor Swift",
+        "nome_musica": "Clean",
+        "popularidade": 7224,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/taylor-swift/clean"
+      },
+      {
+        "id_unico_musica": "taylor-swift_wonderland",
+        "id_artista": "taylor-swift",
+        "id_musica": "wonderland",
+        "nome_artista": "Taylor Swift",
+        "nome_musica": "Wonderland",
+        "popularidade": 4452,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/taylor-swift/wonderland"
+      },
+      {
+        "id_unico_musica": "lady-gaga_big-girl-now",
+        "id_artista": "lady-gaga",
+        "id_musica": "big-girl-now",
+        "nome_artista": "Lady Gaga",
+        "nome_musica": "Big Girl Now",
+        "popularidade": 3709,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/lady-gaga/big-girl-now"
+      },
+      {
+        "id_unico_musica": "boyce-avenue_tonight",
+        "id_artista": "boyce-avenue",
+        "id_musica": "tonight",
+        "nome_artista": "Boyce Avenue",
+        "nome_musica": "Tonight",
+        "popularidade": 2804,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/boyce-avenue/tonight"
+      },
+      {
+        "id_unico_musica": "justin-bieber_home-this-christmas-feat-the-band-perry",
+        "id_artista": "justin-bieber",
+        "id_musica": "home-this-christmas-feat-the-band-perry",
+        "nome_artista": "Justin Bieber",
+        "nome_musica": "Home This Christmas feat. The Band Perry",
+        "popularidade": 2113,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/justin-bieber/home-this-christmas-feat-the-band-perry"
+      },
+      {
+        "id_unico_musica": "miley-cyrus_someone-else",
+        "id_artista": "miley-cyrus",
+        "id_musica": "someone-else",
+        "nome_artista": "Miley Cyrus",
+        "nome_musica": "Someone Else",
+        "popularidade": 2035,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/miley-cyrus/someone-else"
+      },
+      {
+        "id_unico_musica": "katy-perry_double-rainbow",
+        "id_artista": "katy-perry",
+        "id_musica": "double-rainbow",
+        "nome_artista": "Katy Perry",
+        "nome_musica": "Double Rainbow",
+        "popularidade": 2031,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/katy-perry/double-rainbow"
+      },
+      {
+        "id_unico_musica": "lady-gaga_no-way",
+        "id_artista": "lady-gaga",
+        "id_musica": "no-way",
+        "nome_artista": "Lady Gaga",
+        "nome_musica": "No Way",
+        "popularidade": 1925,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/lady-gaga/no-way"
+      },
+      {
+        "id_unico_musica": "justin-bieber_recovery",
+        "id_artista": "justin-bieber",
+        "id_musica": "recovery",
+        "nome_artista": "Justin Bieber",
+        "nome_musica": "Recovery",
+        "popularidade": 1685,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/justin-bieber/recovery"
+      },
+      {
+        "id_unico_musica": "enrique-iglesias_why-not-me",
+        "id_artista": "enrique-iglesias",
+        "id_musica": "why-not-me",
+        "nome_artista": "Enrique Iglesias",
+        "nome_musica": "Why Not Me",
+        "popularidade": 1444,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/enrique-iglesias/why-not-me"
+      },
+      {
+        "id_unico_musica": "colbie-caillat_never-gonna-let-you-down",
+        "id_artista": "colbie-caillat",
+        "id_musica": "never-gonna-let-you-down",
+        "nome_artista": "Colbie Caillat",
+        "nome_musica": "Never Gonna Let You Down",
+        "popularidade": 942,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/colbie-caillat/never-gonna-let-you-down"
+      },
+      {
+        "id_unico_musica": "colbie-caillat_hold-on",
+        "id_artista": "colbie-caillat",
+        "id_musica": "hold-on",
+        "nome_artista": "Colbie Caillat",
+        "nome_musica": "Hold On",
+        "popularidade": 414,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/colbie-caillat/hold-on"
+      },
+      {
+        "id_unico_musica": "colbie-caillat_live-it-up",
+        "id_artista": "colbie-caillat",
+        "id_musica": "live-it-up",
+        "nome_artista": "Colbie Caillat",
+        "nome_musica": "Live It Up",
+        "popularidade": 330,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/colbie-caillat/live-it-up"
+      },
+      {
+        "id_unico_musica": "selena-gomez_parachute",
+        "id_artista": "selena-gomez",
+        "id_musica": "parachute",
+        "nome_artista": "Selena Gomez",
+        "nome_musica": "Parachute",
+        "popularidade": 241,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/selena-gomez/parachute"
+      },
+      {
+        "id_unico_musica": "miley-cyrus_hands-in-the-air",
+        "id_artista": "miley-cyrus",
+        "id_musica": "hands-in-the-air",
+        "nome_artista": "Miley Cyrus",
+        "nome_musica": "Hands In The Air",
+        "popularidade": 102,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/miley-cyrus/hands-in-the-air"
+      },
+      {
+        "id_unico_musica": "birdy_terrible-love",
+        "id_artista": "birdy",
+        "id_musica": "terrible-love",
+        "nome_artista": "Birdy",
+        "nome_musica": "Terrible Love",
+        "popularidade": 0,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop",
+        "url": "http://www.cifraclub.com.br/birdy/terrible-love"
+      },
+      {
+        "id_unico_musica": "alan-jackson_little-man",
+        "id_artista": "alan-jackson",
+        "id_musica": "little-man",
+        "nome_artista": "Alan Jackson",
+        "nome_musica": "Little Man",
+        "popularidade": 1413,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Country",
+        "url": "http://www.cifraclub.com.br/alan-jackson/little-man"
+      },
+      {
+        "id_unico_musica": "avioes-do-forro_eu-ela-e-a-amiga-dela-menage",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "eu-ela-e-a-amiga-dela-menage",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "Eu Ela e a Amiga Dela (Menage)",
+        "popularidade": 46740,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/eu-ela-e-a-amiga-dela-menage"
+      },
+      {
+        "id_unico_musica": "avioes-do-forro_so-se-for-gelada",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "so-se-for-gelada",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "Só Se For Gelada",
+        "popularidade": 31998,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/so-se-for-gelada"
+      },
+      {
+        "id_unico_musica": "avioes-do-forro_saia-bicicletinha",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "saia-bicicletinha",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "Saia e Bicicletinha",
+        "popularidade": 27727,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/saia-bicicletinha"
+      },
+      {
+        "id_unico_musica": "avioes-do-forro_vamos-sair-pra-algum-lugar",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "vamos-sair-pra-algum-lugar",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "Vamos Sair Pra Algum Lugar",
+        "popularidade": 22532,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/vamos-sair-pra-algum-lugar"
+      },
+      {
+        "id_unico_musica": "calcinha-preta_sonho-lindo",
+        "id_artista": "calcinha-preta",
+        "id_musica": "sonho-lindo",
+        "nome_artista": "Calcinha Preta",
+        "nome_musica": "Sonho Lindo",
+        "popularidade": 18412,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/calcinha-preta/sonho-lindo"
+      },
+      {
+        "id_unico_musica": "avioes-do-forro_a-onca-bebe-leite",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "a-onca-bebe-leite",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "A Onça Bebe Leite",
+        "popularidade": 13715,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/a-onca-bebe-leite"
+      },
+      {
+        "id_unico_musica": "wesley-safadao_subidinha",
+        "id_artista": "wesley-safadao",
+        "id_musica": "subidinha",
+        "nome_artista": "Wesley Safadão",
+        "nome_musica": "Subidinha",
+        "popularidade": 9790,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/wesley-safadao/subidinha"
+      },
+      {
+        "id_unico_musica": "avioes-do-forro_misterios",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "misterios",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "Mistérios",
+        "popularidade": 9646,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/misterios"
+      },
+      {
+        "id_unico_musica": "wesley-safadao_rampeira",
+        "id_artista": "wesley-safadao",
+        "id_musica": "rampeira",
+        "nome_artista": "Wesley Safadão",
+        "nome_musica": "Rampeira",
+        "popularidade": 4138,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/wesley-safadao/rampeira"
+      },
+      {
+        "id_unico_musica": "dorgival-dantas_nao-me-diga-bye-bye",
+        "id_artista": "dorgival-dantas",
+        "id_musica": "nao-me-diga-bye-bye",
+        "nome_artista": "Dorgival Dantas",
+        "nome_musica": "Não Me Diga Bye Bye",
+        "popularidade": 3804,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/dorgival-dantas/nao-me-diga-bye-bye"
+      },
+      {
+        "id_unico_musica": "avioes-do-forro_o-gato-bebe-leite",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "o-gato-bebe-leite",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "O Gato Bebe Leite",
+        "popularidade": 3588,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/o-gato-bebe-leite"
+      },
+      {
+        "id_unico_musica": "wesley-safadao_vagalumes",
+        "id_artista": "wesley-safadao",
+        "id_musica": "vagalumes",
+        "nome_artista": "Wesley Safadão",
+        "nome_musica": "Vagalumes",
+        "popularidade": 3465,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/wesley-safadao/vagalumes"
+      },
+      {
+        "id_unico_musica": "avioes-do-forro_prefiro-ser-gordinho",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "prefiro-ser-gordinho",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "Prefiro Ser Gordinho",
+        "popularidade": 2275,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/prefiro-ser-gordinho"
+      },
+      {
+        "id_unico_musica": "wesley-safadao_bolo-doido",
+        "id_artista": "wesley-safadao",
+        "id_musica": "bolo-doido",
+        "nome_artista": "Wesley Safadão",
+        "nome_musica": "Bolo Doido",
+        "popularidade": 1961,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/wesley-safadao/bolo-doido"
+      },
+      {
+        "id_unico_musica": "avioes-do-forro_quem-tem-sorte-e-sortero",
+        "id_artista": "avioes-do-forro",
+        "id_musica": "quem-tem-sorte-e-sortero",
+        "nome_artista": "Aviões do Forró",
+        "nome_musica": "Quem Tem Sorte É Sortero",
+        "popularidade": 1833,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/avioes-do-forro/quem-tem-sorte-e-sortero"
+      },
+      {
+        "id_unico_musica": "desejo-de-menina_amo-voce-demais",
+        "id_artista": "desejo-de-menina",
+        "id_musica": "amo-voce-demais",
+        "nome_artista": "Desejo de Menina",
+        "nome_musica": "Amo Você Demais",
+        "popularidade": 1015,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/desejo-de-menina/amo-voce-demais"
+      },
+      {
+        "id_unico_musica": "gabriel-diniz_-pra-tocar-no-paredao",
+        "id_artista": "gabriel-diniz",
+        "id_musica": "-pra-tocar-no-paredao",
+        "nome_artista": "Gabriel Diniz",
+        "nome_musica": "É Pra Tocar No Paredão",
+        "popularidade": 173,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Forró",
+        "url": "http://www.cifraclub.com.br/gabriel-diniz/-pra-tocar-no-paredao"
+      },
+      {
+        "id_unico_musica": "pedra-leticia_em-plena-lua-de-mel",
+        "id_artista": "pedra-leticia",
+        "id_musica": "em-plena-lua-de-mel",
+        "nome_artista": "Pedra Letícia",
+        "nome_musica": "Em Plena Lua de Mel",
+        "popularidade": 669474,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/pedra-leticia/em-plena-lua-de-mel"
+      },
+      {
+        "id_unico_musica": "charlie-brown-jr_proibida-pra-mim-",
+        "id_artista": "charlie-brown-jr",
+        "id_musica": "proibida-pra-mim-",
+        "nome_artista": "Charlie Brown Jr.",
+        "nome_musica": "Proibida Pra Mim",
+        "popularidade": 105232,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/charlie-brown-jr/proibida-pra-mim-"
+      },
+      {
+        "id_unico_musica": "fresno_ainda-te-amo",
+        "id_artista": "fresno",
+        "id_musica": "ainda-te-amo",
+        "nome_artista": "Fresno",
+        "nome_musica": "Ainda Te Amo",
+        "popularidade": 84256,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/fresno/ainda-te-amo"
+      },
+      {
+        "id_unico_musica": "snow-patrol_run",
+        "id_artista": "snow-patrol",
+        "id_musica": "run",
+        "nome_artista": "Snow Patrol",
+        "nome_musica": "Run",
+        "popularidade": 53603,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/snow-patrol/run"
+      },
+      {
+        "id_unico_musica": "os-paralamas-do-sucesso_de-musica-ligeira",
+        "id_artista": "os-paralamas-do-sucesso",
+        "id_musica": "de-musica-ligeira",
+        "nome_artista": "Os Paralamas do Sucesso",
+        "nome_musica": "De Música Ligeira",
+        "popularidade": 50514,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/os-paralamas-do-sucesso/de-musica-ligeira"
+      },
+      {
+        "id_unico_musica": "avril-lavigne_darlin",
+        "id_artista": "avril-lavigne",
+        "id_musica": "darlin",
+        "nome_artista": "Avril Lavigne",
+        "nome_musica": "Darlin",
+        "popularidade": 48998,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/avril-lavigne/darlin"
+      },
+      {
+        "id_unico_musica": "capital-inicial_gratidao",
+        "id_artista": "capital-inicial",
+        "id_musica": "gratidao",
+        "nome_artista": "Capital Inicial",
+        "nome_musica": "Gratidão",
+        "popularidade": 35928,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/capital-inicial/gratidao"
+      },
+      {
+        "id_unico_musica": "avril-lavigne_i-can-do-better",
+        "id_artista": "avril-lavigne",
+        "id_musica": "i-can-do-better",
+        "nome_artista": "Avril Lavigne",
+        "nome_musica": "I Can do Better",
+        "popularidade": 26949,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/avril-lavigne/i-can-do-better"
+      },
+      {
+        "id_unico_musica": "avril-lavigne_remember-when",
+        "id_artista": "avril-lavigne",
+        "id_musica": "remember-when",
+        "nome_artista": "Avril Lavigne",
+        "nome_musica": "Remember When",
+        "popularidade": 23432,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/avril-lavigne/remember-when"
+      },
+      {
+        "id_unico_musica": "avril-lavigne_black-star",
+        "id_artista": "avril-lavigne",
+        "id_musica": "black-star",
+        "nome_artista": "Avril Lavigne",
+        "nome_musica": "Black Star",
+        "popularidade": 20196,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/avril-lavigne/black-star"
+      },
+      {
+        "id_unico_musica": "5-seconds-of-summer_wherever-you-are",
+        "id_artista": "5-seconds-of-summer",
+        "id_musica": "wherever-you-are",
+        "nome_artista": "5 Seconds Of Summer",
+        "nome_musica": "Wherever You Are",
+        "popularidade": 15710,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/5-seconds-of-summer/wherever-you-are"
+      },
+      {
+        "id_unico_musica": "os-paralamas-do-sucesso_musica-ligeira",
+        "id_artista": "os-paralamas-do-sucesso",
+        "id_musica": "musica-ligeira",
+        "nome_artista": "Os Paralamas do Sucesso",
+        "nome_musica": "Música Ligeira",
+        "popularidade": 13202,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/os-paralamas-do-sucesso/musica-ligeira"
+      },
+      {
+        "id_unico_musica": "avril-lavigne_stop-standing-there",
+        "id_artista": "avril-lavigne",
+        "id_musica": "stop-standing-there",
+        "nome_artista": "Avril Lavigne",
+        "nome_musica": "Stop Standing There",
+        "popularidade": 12329,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/avril-lavigne/stop-standing-there"
+      },
+      {
+        "id_unico_musica": "anjos-do-hanngar_dia-de-sol",
+        "id_artista": "anjos-do-hanngar",
+        "id_musica": "dia-de-sol",
+        "nome_artista": "Anjos Do Hanngar",
+        "nome_musica": "Dia de sol",
+        "popularidade": 8123,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/anjos-do-hanngar/dia-de-sol"
+      },
+      {
+        "id_unico_musica": "goo-goo-dolls_become",
+        "id_artista": "goo-goo-dolls",
+        "id_musica": "become",
+        "nome_artista": "Goo Goo Dolls",
+        "nome_musica": "Become",
+        "popularidade": 3657,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/goo-goo-dolls/become"
+      },
+      {
+        "id_unico_musica": "5-seconds-of-summer_the-only-reason",
+        "id_artista": "5-seconds-of-summer",
+        "id_musica": "the-only-reason",
+        "nome_artista": "5 Seconds Of Summer",
+        "nome_musica": "The Only Reason",
+        "popularidade": 3137,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/5-seconds-of-summer/the-only-reason"
+      },
+      {
+        "id_unico_musica": "5-seconds-of-summer_lost-boy",
+        "id_artista": "5-seconds-of-summer",
+        "id_musica": "lost-boy",
+        "nome_artista": "5 Seconds Of Summer",
+        "nome_musica": "Lost Boy",
+        "popularidade": 2513,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/5-seconds-of-summer/lost-boy"
+      },
+      {
+        "id_unico_musica": "nx-zero_o-destino-02",
+        "id_artista": "nx-zero",
+        "id_musica": "o-destino-02",
+        "nome_artista": "Nx Zero",
+        "nome_musica": "O destino 0.2",
+        "popularidade": 1562,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/nx-zero/o-destino-02"
+      },
+      {
+        "id_unico_musica": "5-seconds-of-summer_bad-dreams",
+        "id_artista": "5-seconds-of-summer",
+        "id_musica": "bad-dreams",
+        "nome_artista": "5 Seconds Of Summer",
+        "nome_musica": "Bad Dreams",
+        "popularidade": 1105,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/5-seconds-of-summer/bad-dreams"
+      },
+      {
+        "id_unico_musica": "5-seconds-of-summer_fly-away",
+        "id_artista": "5-seconds-of-summer",
+        "id_musica": "fly-away",
+        "nome_artista": "5 Seconds Of Summer",
+        "nome_musica": "Fly Away",
+        "popularidade": 1048,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/5-seconds-of-summer/fly-away"
+      },
+      {
+        "id_unico_musica": "ed-sheeran_billy-ruskin",
+        "id_artista": "ed-sheeran",
+        "id_musica": "billy-ruskin",
+        "nome_artista": "Ed Sheeran",
+        "nome_musica": "Billy Ruskin",
+        "popularidade": 932,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/ed-sheeran/billy-ruskin"
+      },
+      {
+        "id_unico_musica": "the-cranberries_not-sorry",
+        "id_artista": "the-cranberries",
+        "id_musica": "not-sorry",
+        "nome_artista": "The Cranberries",
+        "nome_musica": "Not Sorry",
+        "popularidade": 484,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/the-cranberries/not-sorry"
+      },
+      {
+        "id_unico_musica": "5-seconds-of-summer_broken-pieces",
+        "id_artista": "5-seconds-of-summer",
+        "id_musica": "broken-pieces",
+        "nome_artista": "5 Seconds Of Summer",
+        "nome_musica": "Broken Pieces",
+        "popularidade": 313,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/5-seconds-of-summer/broken-pieces"
+      },
+      {
+        "id_unico_musica": "u2_north-and-south-of-the-river",
+        "id_artista": "u2",
+        "id_musica": "north-and-south-of-the-river",
+        "nome_artista": "U2",
+        "nome_musica": "North And South Of The River",
+        "popularidade": 129,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/u2/north-and-south-of-the-river"
+      },
+      {
+        "id_unico_musica": "supercombo_vou-assombrar-seus-amigos-e-parentes",
+        "id_artista": "supercombo",
+        "id_musica": "vou-assombrar-seus-amigos-e-parentes",
+        "nome_artista": "Supercombo",
+        "nome_musica": "Vou Assombrar Seus Amigos e Parentes",
+        "popularidade": 0,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pop Rock",
+        "url": "http://www.cifraclub.com.br/supercombo/vou-assombrar-seus-amigos-e-parentes"
+      },
+      {
+        "id_unico_musica": "chris-brown_next-2-you",
+        "id_artista": "chris-brown",
+        "id_musica": "next-2-you",
+        "nome_artista": "Chris Brown",
+        "nome_musica": "Next 2 You",
+        "popularidade": 33410,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "R&B;",
+        "url": "http://www.cifraclub.com.br/chris-brown/next-2-you"
+      },
+      {
+        "id_unico_musica": "beyonce_si-yo-fuera-un-chico",
+        "id_artista": "beyonce",
+        "id_musica": "si-yo-fuera-un-chico",
+        "nome_artista": "Beyoncé",
+        "nome_musica": "Si Yo Fuera Un Chico",
+        "popularidade": 15260,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "R&B;",
+        "url": "http://www.cifraclub.com.br/beyonce/si-yo-fuera-un-chico"
+      },
+      {
+        "id_unico_musica": "beyonce_radio",
+        "id_artista": "beyonce",
+        "id_musica": "radio",
+        "nome_artista": "Beyoncé",
+        "nome_musica": "Radio",
+        "popularidade": 5318,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "R&B;",
+        "url": "http://www.cifraclub.com.br/beyonce/radio"
+      },
+      {
+        "id_unico_musica": "jason-derulo_blind",
+        "id_artista": "jason-derulo",
+        "id_musica": "blind",
+        "nome_artista": "Jason Derulo",
+        "nome_musica": "Blind",
+        "popularidade": 2322,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "R&B;",
+        "url": "http://www.cifraclub.com.br/jason-derulo/blind"
+      },
+      {
+        "id_unico_musica": "bonde-do-brasil_fala-comigo",
+        "id_artista": "bonde-do-brasil",
+        "id_musica": "fala-comigo",
+        "nome_artista": "Bonde do Brasil",
+        "nome_musica": "Fala Comigo",
+        "popularidade": 27073,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Funk Carioca",
+        "url": "http://www.cifraclub.com.br/bonde-do-brasil/fala-comigo"
+      },
+      {
+        "id_unico_musica": "bonde-do-brasil_entao-volta",
+        "id_artista": "bonde-do-brasil",
+        "id_musica": "entao-volta",
+        "nome_artista": "Bonde do Brasil",
+        "nome_musica": "Então Volta",
+        "popularidade": 14283,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Funk Carioca",
+        "url": "http://www.cifraclub.com.br/bonde-do-brasil/entao-volta"
+      },
+      {
+        "id_unico_musica": "banda-calypso_primeiro-amor",
+        "id_artista": "banda-calypso",
+        "id_musica": "primeiro-amor",
+        "nome_artista": "Banda Calypso",
+        "nome_musica": "Primeiro Amor",
+        "popularidade": 11607,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Brega",
+        "url": "http://www.cifraclub.com.br/banda-calypso/primeiro-amor"
+      },
+      {
+        "id_unico_musica": "banda-calypso_love-you-mon-amor",
+        "id_artista": "banda-calypso",
+        "id_musica": "love-you-mon-amor",
+        "nome_artista": "Banda Calypso",
+        "nome_musica": "Love you mon amor",
+        "popularidade": 7863,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Brega",
+        "url": "http://www.cifraclub.com.br/banda-calypso/love-you-mon-amor"
+      },
+      {
+        "id_unico_musica": "banda-calypso_esperando-por-voce",
+        "id_artista": "banda-calypso",
+        "id_musica": "esperando-por-voce",
+        "nome_artista": "Banda Calypso",
+        "nome_musica": "Esperando Por Você",
+        "popularidade": 4339,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Brega",
+        "url": "http://www.cifraclub.com.br/banda-calypso/esperando-por-voce"
+      },
+      {
+        "id_unico_musica": "banda-calypso_love-you-mon-amour",
+        "id_artista": "banda-calypso",
+        "id_musica": "love-you-mon-amour",
+        "nome_artista": "Banda Calypso",
+        "nome_musica": "Love You Mon Amour",
+        "popularidade": 2852,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Brega",
+        "url": "http://www.cifraclub.com.br/banda-calypso/love-you-mon-amour"
+      },
+      {
+        "id_unico_musica": "of-monsters-and-men_little-talks",
+        "id_artista": "of-monsters-and-men",
+        "id_musica": "little-talks",
+        "nome_artista": "Of Monsters and Men",
+        "nome_musica": "Little Talks",
+        "popularidade": 80542,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/of-monsters-and-men/little-talks"
+      },
+      {
+        "id_unico_musica": "the-lumineers_stubborn-love",
+        "id_artista": "the-lumineers",
+        "id_musica": "stubborn-love",
+        "nome_artista": "The Lumineers",
+        "nome_musica": "Stubborn Love",
+        "popularidade": 30656,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/the-lumineers/stubborn-love"
+      },
+      {
+        "id_unico_musica": "lana-del-rey_radio",
+        "id_artista": "lana-del-rey",
+        "id_musica": "radio",
+        "nome_artista": "Lana Del Rey",
+        "nome_musica": "Radio",
+        "popularidade": 17514,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/lana-del-rey/radio"
+      },
+      {
+        "id_unico_musica": "lorde_tennis-court",
+        "id_artista": "lorde",
+        "id_musica": "tennis-court",
+        "nome_artista": "Lorde",
+        "nome_musica": "Tennis Court",
+        "popularidade": 13722,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/lorde/tennis-court"
+      },
+      {
+        "id_unico_musica": "florence-and-the-machine_no-light-no-light",
+        "id_artista": "florence-and-the-machine",
+        "id_musica": "no-light-no-light",
+        "nome_artista": "Florence and The Machine",
+        "nome_musica": "No Light No Light",
+        "popularidade": 12529,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/florence-and-the-machine/no-light-no-light"
+      },
+      {
+        "id_unico_musica": "clarice-falcao_im-nobody",
+        "id_artista": "clarice-falcao",
+        "id_musica": "im-nobody",
+        "nome_artista": "Clarice Falcão",
+        "nome_musica": "I'm Nobody",
+        "popularidade": 10893,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/clarice-falcao/im-nobody"
+      },
+      {
+        "id_unico_musica": "kodaline_one-day",
+        "id_artista": "kodaline",
+        "id_musica": "one-day",
+        "nome_artista": "Kodaline",
+        "nome_musica": "One Day",
+        "popularidade": 4949,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/kodaline/one-day"
+      },
+      {
+        "id_unico_musica": "plain-white-ts_shine",
+        "id_artista": "plain-white-ts",
+        "id_musica": "shine",
+        "nome_artista": "Plain White T's",
+        "nome_musica": "Shine",
+        "popularidade": 3363,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/plain-white-ts/shine"
+      },
+      {
+        "id_unico_musica": "he-is-we_a-mess-it-grows",
+        "id_artista": "he-is-we",
+        "id_musica": "a-mess-it-grows",
+        "nome_artista": "He Is We",
+        "nome_musica": "A Mess It Grows",
+        "popularidade": 3228,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/he-is-we/a-mess-it-grows"
+      }
+    ],
+    [
+      {
+        "id_unico_musica": "imagine-dragons_america",
+        "id_artista": "imagine-dragons",
+        "id_musica": "america",
+        "nome_artista": "Imagine Dragons",
+        "nome_musica": "America",
+        "popularidade": 2935,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/imagine-dragons/america"
+      },
+      {
+        "id_unico_musica": "bastille_overjoyed",
+        "id_artista": "bastille",
+        "id_musica": "overjoyed",
+        "nome_artista": "Bastille",
+        "nome_musica": "Overjoyed",
+        "popularidade": 2642,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/bastille/overjoyed"
+      },
+      {
+        "id_unico_musica": "the-lumineers_flapper-girl",
+        "id_artista": "the-lumineers",
+        "id_musica": "flapper-girl",
+        "nome_artista": "The Lumineers",
+        "nome_musica": "Flapper Girl",
+        "popularidade": 2119,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/the-lumineers/flapper-girl"
+      },
+      {
+        "id_unico_musica": "bastille_these-streets",
+        "id_artista": "bastille",
+        "id_musica": "these-streets",
+        "nome_artista": "Bastille",
+        "nome_musica": "These Streets",
+        "popularidade": 1503,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/bastille/these-streets"
+      },
+      {
+        "id_unico_musica": "lorde_still-sane",
+        "id_artista": "lorde",
+        "id_musica": "still-sane",
+        "nome_artista": "Lorde",
+        "nome_musica": "Still Sane",
+        "popularidade": 144,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Indie",
+        "url": "http://www.cifraclub.com.br/lorde/still-sane"
+      },
+      {
+        "id_unico_musica": "pericles_amar-amar-amar",
+        "id_artista": "pericles",
+        "id_musica": "amar-amar-amar",
+        "nome_artista": "Péricles",
+        "nome_musica": "Amar Amar Amar",
+        "popularidade": 6724,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Pagode",
+        "url": "http://www.cifraclub.com.br/pericles/amar-amar-amar"
+      },
+      {
+        "id_unico_musica": "sorriso-maroto_areia-em-minhas-maos",
+        "id_artista": "sorriso-maroto",
+        "id_musica": "areia-em-minhas-maos",
+        "nome_artista": "Sorriso Maroto",
+        "nome_musica": "Areia Em Minhas Mãos",
+        "popularidade": 4007,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Pagode",
+        "url": "http://www.cifraclub.com.br/sorriso-maroto/areia-em-minhas-maos"
+      },
+      {
+        "id_unico_musica": "bryan-adams_i-will-be-right-here-waiting",
+        "id_artista": "bryan-adams",
+        "id_musica": "i-will-be-right-here-waiting",
+        "nome_artista": "Bryan Adams",
+        "nome_musica": "I Will Be Right Here Waiting",
+        "popularidade": 17715,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Romântico",
+        "url": "http://www.cifraclub.com.br/bryan-adams/i-will-be-right-here-waiting"
+      },
+      {
+        "id_unico_musica": "bryan-adams_i-will-be-right-here",
+        "id_artista": "bryan-adams",
+        "id_musica": "i-will-be-right-here",
+        "nome_artista": "Bryan Adams",
+        "nome_musica": "I Will Be Right Here",
+        "popularidade": 3223,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Romântico",
+        "url": "http://www.cifraclub.com.br/bryan-adams/i-will-be-right-here"
+      },
+      {
+        "id_unico_musica": "bob-marley_zion-train",
+        "id_artista": "bob-marley",
+        "id_musica": "zion-train",
+        "nome_artista": "Bob Marley",
+        "nome_musica": "Zion Train",
+        "popularidade": 31482,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Reggae",
+        "url": "http://www.cifraclub.com.br/bob-marley/zion-train"
+      },
+      {
+        "id_unico_musica": "ventania_comer-voce",
+        "id_artista": "ventania",
+        "id_musica": "comer-voce",
+        "nome_artista": "Ventania",
+        "nome_musica": "Comer Você",
+        "popularidade": 21707,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Reggae",
+        "url": "http://www.cifraclub.com.br/ventania/comer-voce"
+      },
+      {
+        "id_unico_musica": "natiruts_neguinha",
+        "id_artista": "natiruts",
+        "id_musica": "neguinha",
+        "nome_artista": "Natiruts",
+        "nome_musica": "Neguinha",
+        "popularidade": 7601,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Reggae",
+        "url": "http://www.cifraclub.com.br/natiruts/neguinha"
+      },
+      {
+        "id_unico_musica": "maskavo_manga-verde",
+        "id_artista": "maskavo",
+        "id_musica": "manga-verde",
+        "nome_artista": "Maskavo",
+        "nome_musica": "Manga Verde",
+        "popularidade": 5247,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Reggae",
+        "url": "http://www.cifraclub.com.br/maskavo/manga-verde"
+      },
+      {
+        "id_unico_musica": "skid-row_breakin-down",
+        "id_artista": "skid-row",
+        "id_musica": "breakin-down",
+        "nome_artista": "Skid Row",
+        "nome_musica": "Breakin' Down",
+        "popularidade": 17183,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Hard Rock",
+        "url": "http://www.cifraclub.com.br/skid-row/breakin-down"
+      },
+      {
+        "id_unico_musica": "keane_the-happy-soldier",
+        "id_artista": "keane",
+        "id_musica": "the-happy-soldier",
+        "nome_artista": "Keane",
+        "nome_musica": "The Happy Soldier",
+        "popularidade": 666,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Alternativo",
+        "url": "http://www.cifraclub.com.br/keane/the-happy-soldier"
+      },
+      {
+        "id_unico_musica": "asa-de-aguia_gladiador",
+        "id_artista": "asa-de-aguia",
+        "id_musica": "gladiador",
+        "nome_artista": "Asa de Águia",
+        "nome_musica": "Gladiador",
+        "popularidade": 38613,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Axé",
+        "url": "http://www.cifraclub.com.br/asa-de-aguia/gladiador"
+      },
+      {
+        "id_unico_musica": "chicabana_ai-se-eu-te-pego",
+        "id_artista": "chicabana",
+        "id_musica": "ai-se-eu-te-pego",
+        "nome_artista": "Chicabana",
+        "nome_musica": "Ai Se Eu Te Pego",
+        "popularidade": 22371,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Axé",
+        "url": "http://www.cifraclub.com.br/chicabana/ai-se-eu-te-pego"
+      },
+      {
+        "id_unico_musica": "psirico_saia-biciletinha",
+        "id_artista": "psirico",
+        "id_musica": "saia-biciletinha",
+        "nome_artista": "Psirico",
+        "nome_musica": "Saia e Bicicletinha",
+        "popularidade": 12211,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Axé",
+        "url": "http://www.cifraclub.com.br/psirico/saia-biciletinha"
+      },
+      {
+        "id_unico_musica": "chicabana_bicicletinha",
+        "id_artista": "chicabana",
+        "id_musica": "bicicletinha",
+        "nome_artista": "Chicabana",
+        "nome_musica": "Bicicletinha",
+        "popularidade": 8827,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Axé",
+        "url": "http://www.cifraclub.com.br/chicabana/bicicletinha"
+      },
+      {
+        "id_unico_musica": "chicabana_flashback",
+        "id_artista": "chicabana",
+        "id_musica": "flashback",
+        "nome_artista": "Chicabana",
+        "nome_musica": "Flashback",
+        "popularidade": 5554,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Axé",
+        "url": "http://www.cifraclub.com.br/chicabana/flashback"
+      },
+      {
+        "id_unico_musica": "chicabana_ficar-sair",
+        "id_artista": "chicabana",
+        "id_musica": "ficar-sair",
+        "nome_artista": "Chicabana",
+        "nome_musica": "Ficar Sair",
+        "popularidade": 2187,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Axé",
+        "url": "http://www.cifraclub.com.br/chicabana/ficar-sair"
+      },
+      {
+        "id_unico_musica": "tomate_era-pra-ser",
+        "id_artista": "tomate",
+        "id_musica": "era-pra-ser",
+        "nome_artista": "Tomate",
+        "nome_musica": "Era Pra Ser",
+        "popularidade": 506,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Axé",
+        "url": "http://www.cifraclub.com.br/tomate/era-pra-ser"
+      },
+      {
+        "id_unico_musica": "livres-para-adorar_quando-o-mundo-cai-ao-meu-redor",
+        "id_artista": "livres-para-adorar",
+        "id_musica": "quando-o-mundo-cai-ao-meu-redor",
+        "nome_artista": "Livres Para Adorar",
+        "nome_musica": "Quando o Mundo Cai Ao Meu Redor",
+        "popularidade": 360543,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/livres-para-adorar/quando-o-mundo-cai-ao-meu-redor"
+      },
+      {
+        "id_unico_musica": "fernandinho_ha-um-rio",
+        "id_artista": "fernandinho",
+        "id_musica": "ha-um-rio",
+        "nome_artista": "Fernandinho",
+        "nome_musica": "Há Um  Rio",
+        "popularidade": 319436,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/fernandinho/ha-um-rio"
+      },
+      {
+        "id_unico_musica": "fernandinho_eu-vejo-uma-pequena-nuvem",
+        "id_artista": "fernandinho",
+        "id_musica": "eu-vejo-uma-pequena-nuvem",
+        "nome_artista": "Fernandinho",
+        "nome_musica": "Eu Vejo Uma Pequena Nuvem",
+        "popularidade": 319218,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/fernandinho/eu-vejo-uma-pequena-nuvem"
+      },
+      {
+        "id_unico_musica": "diante-do-trono_meu-filho-nao-temas",
+        "id_artista": "diante-do-trono",
+        "id_musica": "meu-filho-nao-temas",
+        "nome_artista": "Diante do Trono",
+        "nome_musica": "Meu filho não temas",
+        "popularidade": 76178,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/diante-do-trono/meu-filho-nao-temas"
+      },
+      {
+        "id_unico_musica": "cassiane_500o",
+        "id_artista": "cassiane",
+        "id_musica": "500o",
+        "nome_artista": "Cassiane",
+        "nome_musica": "500º",
+        "popularidade": 63732,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/cassiane/500o"
+      },
+      {
+        "id_unico_musica": "aline-barros_faz-chover-202854",
+        "id_artista": "aline-barros",
+        "id_musica": "faz-chover-202854",
+        "nome_artista": "Aline Barros",
+        "nome_musica": "Faz Chover",
+        "popularidade": 63429,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/aline-barros/faz-chover-202854"
+      },
+      {
+        "id_unico_musica": "andre-valadao_quando-o-mundo-cai-ao-meu-redor",
+        "id_artista": "andre-valadao",
+        "id_musica": "quando-o-mundo-cai-ao-meu-redor",
+        "nome_artista": "André Valadão",
+        "nome_musica": "Quando o Mundo Cai Ao Meu Redor",
+        "popularidade": 49833,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/andre-valadao/quando-o-mundo-cai-ao-meu-redor"
+      },
+      {
+        "id_unico_musica": "catedral_estacoes",
+        "id_artista": "catedral",
+        "id_musica": "estacoes",
+        "nome_artista": "Catedral",
+        "nome_musica": "Estações",
+        "popularidade": 33028,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/catedral/estacoes"
+      },
+      {
+        "id_unico_musica": "harpa-crista_o-exilado",
+        "id_artista": "harpa-crista",
+        "id_musica": "o-exilado",
+        "nome_artista": "Harpa Cristã",
+        "nome_musica": "O Exilado",
+        "popularidade": 29451,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/harpa-crista/o-exilado"
+      },
+      {
+        "id_unico_musica": "clamor-pelas-nacoes_eu-me-alegrarei",
+        "id_artista": "clamor-pelas-nacoes",
+        "id_musica": "eu-me-alegrarei",
+        "nome_artista": "Clamor pelas Nações",
+        "nome_musica": "Eu Me Alegrarei",
+        "popularidade": 29196,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/clamor-pelas-nacoes/eu-me-alegrarei"
+      },
+      {
+        "id_unico_musica": "resgate_o-nome-da-paz-acustico",
+        "id_artista": "resgate",
+        "id_musica": "o-nome-da-paz-acustico",
+        "nome_artista": "Resgate",
+        "nome_musica": "O nome da Paz (acústico)",
+        "popularidade": 24774,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/resgate/o-nome-da-paz-acustico"
+      },
+      {
+        "id_unico_musica": "livres-para-adorar_eu-amo-seu-coracao",
+        "id_artista": "livres-para-adorar",
+        "id_musica": "eu-amo-seu-coracao",
+        "nome_artista": "Livres Para Adorar",
+        "nome_musica": "Eu Amo Seu Coração",
+        "popularidade": 24472,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/livres-para-adorar/eu-amo-seu-coracao"
+      },
+      {
+        "id_unico_musica": "voz-da-verdade_avivamento",
+        "id_artista": "voz-da-verdade",
+        "id_musica": "avivamento",
+        "nome_artista": "Voz da Verdade",
+        "nome_musica": "Avivamento",
+        "popularidade": 19340,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/voz-da-verdade/avivamento"
+      },
+      {
+        "id_unico_musica": "heloisa-rosa_jesus-eu-te-amo-nem-ceu-nem-mar",
+        "id_artista": "heloisa-rosa",
+        "id_musica": "jesus-eu-te-amo-nem-ceu-nem-mar",
+        "nome_artista": "Heloísa Rosa",
+        "nome_musica": "Jesus Eu Te Amo (Nem o Céu Nem o Mar)",
+        "popularidade": 17989,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/heloisa-rosa/jesus-eu-te-amo-nem-ceu-nem-mar"
+      },
+      {
+        "id_unico_musica": "david-quinlan_faz-chover-199369",
+        "id_artista": "david-quinlan",
+        "id_musica": "faz-chover-199369",
+        "nome_artista": "David Quinlan",
+        "nome_musica": "Pequena Nuvem",
+        "popularidade": 16451,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/david-quinlan/faz-chover-199369"
+      },
+      {
+        "id_unico_musica": "ministerio-fonte-da-vida-de-adoracao_santidade-ao-senhor",
+        "id_artista": "ministerio-fonte-da-vida-de-adoracao",
+        "id_musica": "santidade-ao-senhor",
+        "nome_artista": "Ministério Fonte da Vida de Adoração",
+        "nome_musica": "Santidade Ao Senhor",
+        "popularidade": 13483,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/ministerio-fonte-da-vida-de-adoracao/santidade-ao-senhor"
+      },
+      {
+        "id_unico_musica": "catolicas_ladainha-mae-de-deus",
+        "id_artista": "catolicas",
+        "id_musica": "ladainha-mae-de-deus",
+        "nome_artista": "Católicas",
+        "nome_musica": "Ladainha Mãe De Deus",
+        "popularidade": 13304,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/catolicas/ladainha-mae-de-deus"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_algemado-no-mundo-eu-estava",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "algemado-no-mundo-eu-estava",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Algemado No Mundo Eu Estava",
+        "popularidade": 13052,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/algemado-no-mundo-eu-estava"
+      },
+      {
+        "id_unico_musica": "paulo-cesar-baruk_sou-livre",
+        "id_artista": "paulo-cesar-baruk",
+        "id_musica": "sou-livre",
+        "nome_artista": "Paulo César Baruk",
+        "nome_musica": "Sou Livre",
+        "popularidade": 12980,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/paulo-cesar-baruk/sou-livre"
+      },
+      {
+        "id_unico_musica": "diego-fernandes_um-amor-de-verdade",
+        "id_artista": "diego-fernandes",
+        "id_musica": "um-amor-de-verdade",
+        "nome_artista": "Diego Fernandes",
+        "nome_musica": "Um Amor de Verdade",
+        "popularidade": 12954,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/diego-fernandes/um-amor-de-verdade"
+      },
+      {
+        "id_unico_musica": "marcos-witt_levantate-salvame",
+        "id_artista": "marcos-witt",
+        "id_musica": "levantate-salvame",
+        "nome_artista": "Marcos Witt",
+        "nome_musica": "Levantaté y Salvame",
+        "popularidade": 12269,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/marcos-witt/levantate-salvame"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_salmos-45",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "salmos-45",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Salmos 45",
+        "popularidade": 10756,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/salmos-45"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_anjo",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "anjo",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Anjo",
+        "popularidade": 9462,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/anjo"
+      },
+      {
+        "id_unico_musica": "ludmila-ferber_vem-me-saciar",
+        "id_artista": "ludmila-ferber",
+        "id_musica": "vem-me-saciar",
+        "nome_artista": "Ludmila Ferber",
+        "nome_musica": "Vem me saciar",
+        "popularidade": 8277,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/ludmila-ferber/vem-me-saciar"
+      },
+      {
+        "id_unico_musica": "hillsong-united_everything-to-me",
+        "id_artista": "hillsong-united",
+        "id_musica": "everything-to-me",
+        "nome_artista": "Hillsong United",
+        "nome_musica": "Everything To Me",
+        "popularidade": 8129,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-united/everything-to-me"
+      },
+      {
+        "id_unico_musica": "hillsong-united_rise",
+        "id_artista": "hillsong-united",
+        "id_musica": "rise",
+        "nome_artista": "Hillsong United",
+        "nome_musica": "Rise",
+        "popularidade": 7412,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-united/rise"
+      },
+      {
+        "id_unico_musica": "diante-do-trono_pra-sempre-reinaras",
+        "id_artista": "diante-do-trono",
+        "id_musica": "pra-sempre-reinaras",
+        "nome_artista": "Diante do Trono",
+        "nome_musica": "Pra Sempre Reinarás",
+        "popularidade": 7297,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/diante-do-trono/pra-sempre-reinaras"
+      },
+      {
+        "id_unico_musica": "fernandinho_poema-de-salvacao",
+        "id_artista": "fernandinho",
+        "id_musica": "poema-de-salvacao",
+        "nome_artista": "Fernandinho",
+        "nome_musica": "Poema de Salvação",
+        "popularidade": 6718,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/fernandinho/poema-de-salvacao"
+      },
+      {
+        "id_unico_musica": "diego-fernandes_deus-te-ve",
+        "id_artista": "diego-fernandes",
+        "id_musica": "deus-te-ve",
+        "nome_artista": "Diego Fernandes",
+        "nome_musica": "Deus Te Vê",
+        "popularidade": 6628,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/diego-fernandes/deus-te-ve"
+      },
+      {
+        "id_unico_musica": "hillsong-united_perfect-love",
+        "id_artista": "hillsong-united",
+        "id_musica": "perfect-love",
+        "nome_artista": "Hillsong United",
+        "nome_musica": "Perfect Love",
+        "popularidade": 6463,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-united/perfect-love"
+      },
+      {
+        "id_unico_musica": "daniel-alencar_eu-me-alegrarei",
+        "id_artista": "daniel-alencar",
+        "id_musica": "eu-me-alegrarei",
+        "nome_artista": "Daniel Alencar",
+        "nome_musica": "Eu Me Alegrarei",
+        "popularidade": 6457,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/daniel-alencar/eu-me-alegrarei"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_escuta-na-comunha",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "escuta-na-comunha",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Escuta Na Comunhã",
+        "popularidade": 6286,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/escuta-na-comunha"
+      },
+      {
+        "id_unico_musica": "davi-sacer_faz-chover",
+        "id_artista": "davi-sacer",
+        "id_musica": "faz-chover",
+        "nome_artista": "Davi Sacer",
+        "nome_musica": "Faz Chover",
+        "popularidade": 6261,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/davi-sacer/faz-chover"
+      },
+      {
+        "id_unico_musica": "hillsong-united_search-my-heart",
+        "id_artista": "hillsong-united",
+        "id_musica": "search-my-heart",
+        "nome_artista": "Hillsong United",
+        "nome_musica": "Search My Heart",
+        "popularidade": 6186,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-united/search-my-heart"
+      },
+      {
+        "id_unico_musica": "kleber-lucas_ziguezageando",
+        "id_artista": "kleber-lucas",
+        "id_musica": "ziguezageando",
+        "nome_artista": "Kleber Lucas",
+        "nome_musica": "Ziguezageando",
+        "popularidade": 5914,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/kleber-lucas/ziguezageando"
+      },
+      {
+        "id_unico_musica": "fonte-da-vida_elevo-os-olhos-para-os-montes",
+        "id_artista": "fonte-da-vida",
+        "id_musica": "elevo-os-olhos-para-os-montes",
+        "nome_artista": "Fonte da Vida",
+        "nome_musica": "Elevo Os Olhos Para Os Montes",
+        "popularidade": 5721,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/fonte-da-vida/elevo-os-olhos-para-os-montes"
+      },
+      {
+        "id_unico_musica": "hillsong-united_up-in-arms",
+        "id_artista": "hillsong-united",
+        "id_musica": "up-in-arms",
+        "nome_artista": "Hillsong United",
+        "nome_musica": "Up In Arms",
+        "popularidade": 5430,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-united/up-in-arms"
+      },
+      {
+        "id_unico_musica": "comunidade-da-zona-sul_majestoso-rei-97837",
+        "id_artista": "comunidade-da-zona-sul",
+        "id_musica": "majestoso-rei-97837",
+        "nome_artista": "Comunidade Evangélica Internacional da Zona Sul",
+        "nome_musica": "Majestoso Rei",
+        "popularidade": 5112,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/comunidade-da-zona-sul/majestoso-rei-97837"
+      },
+      {
+        "id_unico_musica": "cristina-mel_pra-jesus-louvar",
+        "id_artista": "cristina-mel",
+        "id_musica": "pra-jesus-louvar",
+        "nome_artista": "Cristina Mel",
+        "nome_musica": "Pra Jesus Louvar",
+        "popularidade": 4534,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/cristina-mel/pra-jesus-louvar"
+      },
+      {
+        "id_unico_musica": "fonte-da-vida_eu-quero-ser-um-prazer-para-ti",
+        "id_artista": "fonte-da-vida",
+        "id_musica": "eu-quero-ser-um-prazer-para-ti",
+        "nome_artista": "Fonte da Vida",
+        "nome_musica": "Eu Quero Ser Um Prazer Para Ti",
+        "popularidade": 4519,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/fonte-da-vida/eu-quero-ser-um-prazer-para-ti"
+      },
+      {
+        "id_unico_musica": "casa-de-davi_santo-e-o-senhor",
+        "id_artista": "casa-de-davi",
+        "id_musica": "santo-e-o-senhor",
+        "nome_artista": "Casa de Davi",
+        "nome_musica": "Santo É o Senhor",
+        "popularidade": 3496,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/casa-de-davi/santo-e-o-senhor"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_moca-de-deus",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "moca-de-deus",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Moça de Deus",
+        "popularidade": 3304,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/moca-de-deus"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_eu-sei",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "eu-sei",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Eu Sei",
+        "popularidade": 3179,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/eu-sei"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_aos-ceus-clamou",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "aos-ceus-clamou",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Aos Céus Clamou",
+        "popularidade": 3081,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/aos-ceus-clamou"
+      },
+      {
+        "id_unico_musica": "alda-celia_pai-nosso",
+        "id_artista": "alda-celia",
+        "id_musica": "pai-nosso",
+        "nome_artista": "Alda Célia",
+        "nome_musica": "Pai Nosso",
+        "popularidade": 2845,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/alda-celia/pai-nosso"
+      },
+      {
+        "id_unico_musica": "fonte-da-vida_maravilhoso",
+        "id_artista": "fonte-da-vida",
+        "id_musica": "maravilhoso",
+        "nome_artista": "Fonte da Vida",
+        "nome_musica": "Maravilhoso",
+        "popularidade": 2808,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/fonte-da-vida/maravilhoso"
+      },
+      {
+        "id_unico_musica": "judson-oliveira_golias-voce-vai-cair-espontanea",
+        "id_artista": "judson-oliveira",
+        "id_musica": "golias-voce-vai-cair-espontanea",
+        "nome_artista": "Judson Oliveira",
+        "nome_musica": "Golias Você Vai Cair (espontânea)",
+        "popularidade": 2800,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/judson-oliveira/golias-voce-vai-cair-espontanea"
+      },
+      {
+        "id_unico_musica": "eliana-ribeiro_meu-sim",
+        "id_artista": "eliana-ribeiro",
+        "id_musica": "meu-sim",
+        "nome_artista": "Eliana Ribeiro",
+        "nome_musica": "Meu Sim",
+        "popularidade": 2271,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/eliana-ribeiro/meu-sim"
+      },
+      {
+        "id_unico_musica": "jesus-culture_you-are-my-god",
+        "id_artista": "jesus-culture",
+        "id_musica": "you-are-my-god",
+        "nome_artista": "Jesus Culture",
+        "nome_musica": "You Are My God",
+        "popularidade": 2254,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/jesus-culture/you-are-my-god"
+      },
+      {
+        "id_unico_musica": "mattos-nascimento-musicas_grite-para-todo-mundo-ouvir",
+        "id_artista": "mattos-nascimento-musicas",
+        "id_musica": "grite-para-todo-mundo-ouvir",
+        "nome_artista": "Mattos Nascimento",
+        "nome_musica": "Grite Para Todo Mundo Ouvir",
+        "popularidade": 2015,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/mattos-nascimento-musicas/grite-para-todo-mundo-ouvir"
+      },
+      {
+        "id_unico_musica": "vineyard_emmanuel",
+        "id_artista": "vineyard",
+        "id_musica": "emmanuel",
+        "nome_artista": "Vineyard",
+        "nome_musica": "Emmanuel",
+        "popularidade": 1995,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/vineyard/emmanuel"
+      },
+      {
+        "id_unico_musica": "ministerio-ipiranga_verdadeiramente",
+        "id_artista": "ministerio-ipiranga",
+        "id_musica": "verdadeiramente",
+        "nome_artista": "Ministério Ipiranga",
+        "nome_musica": "Verdadeiramente",
+        "popularidade": 1955,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/ministerio-ipiranga/verdadeiramente"
+      },
+      {
+        "id_unico_musica": "skillet_shouldve-when-you-couldve",
+        "id_artista": "skillet",
+        "id_musica": "shouldve-when-you-couldve",
+        "nome_artista": "Skillet",
+        "nome_musica": "Shouldve When You Couldve",
+        "popularidade": 1775,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/skillet/shouldve-when-you-couldve"
+      },
+      {
+        "id_unico_musica": "hillsong-united_con-mi-fe",
+        "id_artista": "hillsong-united",
+        "id_musica": "con-mi-fe",
+        "nome_artista": "Hillsong United",
+        "nome_musica": "Con Mi Fé",
+        "popularidade": 1675,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-united/con-mi-fe"
+      },
+      {
+        "id_unico_musica": "hillsong-music-australia_rise",
+        "id_artista": "hillsong-music-australia",
+        "id_musica": "rise",
+        "nome_artista": "Hillsong Music Australia",
+        "nome_musica": "Rise",
+        "popularidade": 1499,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-music-australia/rise"
+      },
+      {
+        "id_unico_musica": "ouvir-e-crer_fui-atraido-pelo-teu-amor",
+        "id_artista": "ouvir-e-crer",
+        "id_musica": "fui-atraido-pelo-teu-amor",
+        "nome_artista": "Ouvir e Crer",
+        "nome_musica": "Fui Atraído Pelo Teu Amor",
+        "popularidade": 1272,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/ouvir-e-crer/fui-atraido-pelo-teu-amor"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_quando-voce-tenta-esconder-de-mim-a-sua-dor",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "quando-voce-tenta-esconder-de-mim-a-sua-dor",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Quando Você Tenta Esconder de Mim a Sua Dor",
+        "popularidade": 1148,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/quando-voce-tenta-esconder-de-mim-a-sua-dor"
+      },
+      {
+        "id_unico_musica": "cristina-mel_e-so-vitoria",
+        "id_artista": "cristina-mel",
+        "id_musica": "e-so-vitoria",
+        "nome_artista": "Cristina Mel",
+        "nome_musica": "É Só Vitória",
+        "popularidade": 1118,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/cristina-mel/e-so-vitoria"
+      },
+      {
+        "id_unico_musica": "hillsong-united_cristo-mi-amigo-fiel",
+        "id_artista": "hillsong-united",
+        "id_musica": "cristo-mi-amigo-fiel",
+        "nome_artista": "Hillsong United",
+        "nome_musica": "Cristo Mi Amigo Fiel",
+        "popularidade": 1057,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-united/cristo-mi-amigo-fiel"
+      },
+      {
+        "id_unico_musica": "cristina-mel_e-so-vitoria-agora-adora",
+        "id_artista": "cristina-mel",
+        "id_musica": "e-so-vitoria-agora-adora",
+        "nome_artista": "Cristina Mel",
+        "nome_musica": "É Só Vitória (Agora Adora)",
+        "popularidade": 892,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/cristina-mel/e-so-vitoria-agora-adora"
+      },
+      {
+        "id_unico_musica": "pamela_to-no-ceu",
+        "id_artista": "pamela",
+        "id_musica": "to-no-ceu",
+        "nome_artista": "Pamela",
+        "nome_musica": "Tô No Céu",
+        "popularidade": 638,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/pamela/to-no-ceu"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_mesmo-fraco-como-estou",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "mesmo-fraco-como-estou",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Mesmo Fraco Como Estou",
+        "popularidade": 634,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/mesmo-fraco-como-estou"
+      },
+      {
+        "id_unico_musica": "hillsong-united_mi-mejor-amigo",
+        "id_artista": "hillsong-united",
+        "id_musica": "mi-mejor-amigo",
+        "nome_artista": "Hillsong United",
+        "nome_musica": "Mi Mejor Amigo",
+        "popularidade": 554,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-united/mi-mejor-amigo"
+      },
+      {
+        "id_unico_musica": "hinos-avulsos-ccb_certeza-de-vencer",
+        "id_artista": "hinos-avulsos-ccb",
+        "id_musica": "certeza-de-vencer",
+        "nome_artista": "Hinos Avulsos CCB",
+        "nome_musica": "Certeza de Vencer",
+        "popularidade": 551,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hinos-avulsos-ccb/certeza-de-vencer"
+      },
+      {
+        "id_unico_musica": "hillsong-music-australia_seu-amor-nunca-falha-relentless",
+        "id_artista": "hillsong-music-australia",
+        "id_musica": "seu-amor-nunca-falha-relentless",
+        "nome_artista": "Hillsong Music Australia",
+        "nome_musica": "Seu Amor Nunca Falha (Relentless)",
+        "popularidade": 428,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-music-australia/seu-amor-nunca-falha-relentless"
+      },
+      {
+        "id_unico_musica": "hillsong-united_tu-fama-gritare",
+        "id_artista": "hillsong-united",
+        "id_musica": "tu-fama-gritare",
+        "nome_artista": "Hillsong United",
+        "nome_musica": "Tu Fama Gritaré",
+        "popularidade": 307,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/hillsong-united/tu-fama-gritare"
+      },
+      {
+        "id_unico_musica": "michael-w-smith-musicas_come-see",
+        "id_artista": "michael-w-smith-musicas",
+        "id_musica": "come-see",
+        "nome_artista": "Michael W. Smith",
+        "nome_musica": "Come See",
+        "popularidade": 278,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/michael-w-smith-musicas/come-see"
+      },
+      {
+        "id_unico_musica": "bethel-church_you-are-faithful-amy-miller",
+        "id_artista": "bethel-church",
+        "id_musica": "you-are-faithful-amy-miller",
+        "nome_artista": "Bethel Church",
+        "nome_musica": "You Are Faithful (amy Miller)",
+        "popularidade": 26,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Gospel/Religioso",
+        "url": "http://www.cifraclub.com.br/bethel-church/you-are-faithful-amy-miller"
+      },
+      {
+        "id_unico_musica": "eminem_lighters",
+        "id_artista": "eminem",
+        "id_musica": "lighters",
+        "nome_artista": "Eminem",
+        "nome_musica": "Lighters",
+        "popularidade": 14370,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Hip Hop/Rap",
+        "url": "http://www.cifraclub.com.br/eminem/lighters"
+      },
+      {
+        "id_unico_musica": "fernando-sorocaba_a-casa-caiu",
+        "id_artista": "fernando-sorocaba",
+        "id_musica": "a-casa-caiu",
+        "nome_artista": "Fernando e Sorocaba",
+        "nome_musica": "A Casa Caiu",
+        "popularidade": 914999,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/fernando-sorocaba/a-casa-caiu"
+      },
+      {
+        "id_unico_musica": "israel-novaes_vem-ni-mim-dodge-ram",
+        "id_artista": "israel-novaes",
+        "id_musica": "vem-ni-mim-dodge-ram",
+        "nome_artista": "Israel Novaes",
+        "nome_musica": "Vem Ni Mim Dodge Ram (part. Gusttavo Lima)",
+        "popularidade": 547253,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/israel-novaes/vem-ni-mim-dodge-ram"
+      },
+      {
+        "id_unico_musica": "joao-neto-frederico_so-de-voce",
+        "id_artista": "joao-neto-frederico",
+        "id_musica": "so-de-voce",
+        "nome_artista": "João Neto e Frederico",
+        "nome_musica": "Só de Você",
+        "popularidade": 535856,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/joao-neto-frederico/so-de-voce"
+      },
+      {
+        "id_unico_musica": "jorge-mateus_eu-quero-ser-teu-sol",
+        "id_artista": "jorge-mateus",
+        "id_musica": "eu-quero-ser-teu-sol",
+        "nome_artista": "Jorge e Mateus",
+        "nome_musica": "Eu Quero Ser Teu Sol",
+        "popularidade": 277535,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/jorge-mateus/eu-quero-ser-teu-sol"
+      },
+      {
+        "id_unico_musica": "humberto-ronaldo_so-vou-beber-mais-hoje",
+        "id_artista": "humberto-ronaldo",
+        "id_musica": "so-vou-beber-mais-hoje",
+        "nome_artista": "Humberto e Ronaldo",
+        "nome_musica": "Só Vou Beber Mais Hoje",
+        "popularidade": 256037,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/humberto-ronaldo/so-vou-beber-mais-hoje"
+      },
+      {
+        "id_unico_musica": "marcos-belutti_nova-namorada",
+        "id_artista": "marcos-belutti",
+        "id_musica": "nova-namorada",
+        "nome_artista": "Marcos e Belutti",
+        "nome_musica": "Nova Namorada",
+        "popularidade": 249133,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/marcos-belutti/nova-namorada"
+      },
+      {
+        "id_unico_musica": "jorge-mateus_invasoes",
+        "id_artista": "jorge-mateus",
+        "id_musica": "invasoes",
+        "nome_artista": "Jorge e Mateus",
+        "nome_musica": "Invasões",
+        "popularidade": 209986,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/jorge-mateus/invasoes"
+      },
+      {
+        "id_unico_musica": "fernando-sorocaba_estrela-solitaria",
+        "id_artista": "fernando-sorocaba",
+        "id_musica": "estrela-solitaria",
+        "nome_artista": "Fernando e Sorocaba",
+        "nome_musica": "Estrela Solitária",
+        "popularidade": 149454,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/fernando-sorocaba/estrela-solitaria"
+      },
+      {
+        "id_unico_musica": "gusttavo-lima_vem-ne-mim-dodge-ram",
+        "id_artista": "gusttavo-lima",
+        "id_musica": "vem-ne-mim-dodge-ram",
+        "nome_artista": "Gusttavo Lima",
+        "nome_musica": "Vem Ne Mim Dodge Ram",
+        "popularidade": 100950,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/gusttavo-lima/vem-ne-mim-dodge-ram"
+      }
+    ],
+    [
+      {
+        "id_unico_musica": "bruno-e-marrone_so-de-voce",
+        "id_artista": "bruno-e-marrone",
+        "id_musica": "so-de-voce",
+        "nome_artista": "Bruno e Marrone",
+        "nome_musica": "Só de Você",
+        "popularidade": 89163,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/bruno-e-marrone/so-de-voce"
+      },
+      {
+        "id_unico_musica": "henrique-e-juliano_a-dona-do-meu-coracao",
+        "id_artista": "henrique-e-juliano",
+        "id_musica": "a-dona-do-meu-coracao",
+        "nome_artista": "Henrique e Juliano",
+        "nome_musica": "A Dona do Meu Coração",
+        "popularidade": 88766,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/henrique-e-juliano/a-dona-do-meu-coracao"
+      },
+      {
+        "id_unico_musica": "henrique-e-juliano_na-hora-da-raiva",
+        "id_artista": "henrique-e-juliano",
+        "id_musica": "na-hora-da-raiva",
+        "nome_artista": "Henrique e Juliano",
+        "nome_musica": "Na Hora da Raiva",
+        "popularidade": 88025,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/henrique-e-juliano/na-hora-da-raiva"
+      },
+      {
+        "id_unico_musica": "victor-leo_lagrimas",
+        "id_artista": "victor-leo",
+        "id_musica": "lagrimas",
+        "nome_artista": "Victor e Leo",
+        "nome_musica": "Lágrimas",
+        "popularidade": 84101,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/victor-leo/lagrimas"
+      },
+      {
+        "id_unico_musica": "cleber-cauan_mel-nesse-trem",
+        "id_artista": "cleber-cauan",
+        "id_musica": "mel-nesse-trem",
+        "nome_artista": "Cleber e Cauan",
+        "nome_musica": "Mel Nesse Trem",
+        "popularidade": 74979,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/cleber-cauan/mel-nesse-trem"
+      },
+      {
+        "id_unico_musica": "luan-santana_loira-linda",
+        "id_artista": "luan-santana",
+        "id_musica": "loira-linda",
+        "nome_artista": "Luan Santana",
+        "nome_musica": "Loira Linda",
+        "popularidade": 72969,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/luan-santana/loira-linda"
+      },
+      {
+        "id_unico_musica": "leo-magalhaes_24-horas-pensando-em-voce",
+        "id_artista": "leo-magalhaes",
+        "id_musica": "24-horas-pensando-em-voce",
+        "nome_artista": "Léo Magalhães",
+        "nome_musica": "24 Horas (Pensando Em Você)",
+        "popularidade": 69476,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/leo-magalhaes/24-horas-pensando-em-voce"
+      },
+      {
+        "id_unico_musica": "leonardo_baby-fala-pra-mim",
+        "id_artista": "leonardo",
+        "id_musica": "baby-fala-pra-mim",
+        "nome_artista": "Leonardo",
+        "nome_musica": "Baby Fala Pra Mim",
+        "popularidade": 61053,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/leonardo/baby-fala-pra-mim"
+      },
+      {
+        "id_unico_musica": "maria-cecilia-rodolfo_me-de-uma-chance",
+        "id_artista": "maria-cecilia-rodolfo",
+        "id_musica": "me-de-uma-chance",
+        "nome_artista": "Maria Cecília e Rodolfo",
+        "nome_musica": "Me Dê Uma Chance",
+        "popularidade": 59156,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/maria-cecilia-rodolfo/me-de-uma-chance"
+      },
+      {
+        "id_unico_musica": "thaeme-thiago_cafajeste",
+        "id_artista": "thaeme-thiago",
+        "id_musica": "cafajeste",
+        "nome_artista": "Thaeme e Thiago",
+        "nome_musica": "Cafajeste",
+        "popularidade": 57983,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/thaeme-thiago/cafajeste"
+      },
+      {
+        "id_unico_musica": "pedro-paulo-alex_ta-calor",
+        "id_artista": "pedro-paulo-alex",
+        "id_musica": "ta-calor",
+        "nome_artista": "Pedro Paulo e Alex",
+        "nome_musica": "Ta Calor",
+        "popularidade": 56963,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/pedro-paulo-alex/ta-calor"
+      },
+      {
+        "id_unico_musica": "henrique-diego_me-liga",
+        "id_artista": "henrique-diego",
+        "id_musica": "me-liga",
+        "nome_artista": "Henrique e Diego",
+        "nome_musica": "Me Liga",
+        "popularidade": 54523,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/henrique-diego/me-liga"
+      },
+      {
+        "id_unico_musica": "leandro-e-leonardo_agua-de-coco",
+        "id_artista": "leandro-e-leonardo",
+        "id_musica": "agua-de-coco",
+        "nome_artista": "Leandro & Leonardo",
+        "nome_musica": "Água de coco",
+        "popularidade": 52603,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/leandro-e-leonardo/agua-de-coco"
+      },
+      {
+        "id_unico_musica": "joao-neto-frederico_eu-voce",
+        "id_artista": "joao-neto-frederico",
+        "id_musica": "eu-voce",
+        "nome_artista": "João Neto e Frederico",
+        "nome_musica": "Eu e Você",
+        "popularidade": 52136,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/joao-neto-frederico/eu-voce"
+      },
+      {
+        "id_unico_musica": "israel-novaes_dodge-ram",
+        "id_artista": "israel-novaes",
+        "id_musica": "dodge-ram",
+        "nome_artista": "Israel Novaes",
+        "nome_musica": "Dodge Ram",
+        "popularidade": 42489,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/israel-novaes/dodge-ram"
+      },
+      {
+        "id_unico_musica": "leonardo_agua-de-coco",
+        "id_artista": "leonardo",
+        "id_musica": "agua-de-coco",
+        "nome_artista": "Leonardo",
+        "nome_musica": "Água de coco",
+        "popularidade": 39953,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/leonardo/agua-de-coco"
+      },
+      {
+        "id_unico_musica": "gusttavo-lima_chovendo-paixao",
+        "id_artista": "gusttavo-lima",
+        "id_musica": "chovendo-paixao",
+        "nome_artista": "Gusttavo Lima",
+        "nome_musica": "Chovendo Paixão",
+        "popularidade": 38110,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/gusttavo-lima/chovendo-paixao"
+      },
+      {
+        "id_unico_musica": "henrique-diego_vida-mais-ou-menos",
+        "id_artista": "henrique-diego",
+        "id_musica": "vida-mais-ou-menos",
+        "nome_artista": "Henrique e Diego",
+        "nome_musica": "Vida Mais ou Menos",
+        "popularidade": 37355,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/henrique-diego/vida-mais-ou-menos"
+      },
+      {
+        "id_unico_musica": "luan-santana_uma-noite",
+        "id_artista": "luan-santana",
+        "id_musica": "uma-noite",
+        "nome_artista": "Luan Santana",
+        "nome_musica": "Uma Noite",
+        "popularidade": 37173,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/luan-santana/uma-noite"
+      },
+      {
+        "id_unico_musica": "paula-fernandes_aos-olhos-do-tempo",
+        "id_artista": "paula-fernandes",
+        "id_musica": "aos-olhos-do-tempo",
+        "nome_artista": "Paula Fernandes",
+        "nome_musica": "Aos Olhos Do Tempo",
+        "popularidade": 35606,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/paula-fernandes/aos-olhos-do-tempo"
+      },
+      {
+        "id_unico_musica": "leonardo_quem-o-dono-dos-seus-olhos",
+        "id_artista": "leonardo",
+        "id_musica": "quem-o-dono-dos-seus-olhos",
+        "nome_artista": "Leonardo",
+        "nome_musica": "Quem É o Dono Dos Seus Olhos",
+        "popularidade": 31320,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/leonardo/quem-o-dono-dos-seus-olhos"
+      },
+      {
+        "id_unico_musica": "zeze-di-camargo-e-luciano_eu-sou-desejo-voce-paixao",
+        "id_artista": "zeze-di-camargo-e-luciano",
+        "id_musica": "eu-sou-desejo-voce-paixao",
+        "nome_artista": "Zezé Di Camargo e Luciano",
+        "nome_musica": "Eu Sou Desejo Você É Paixão",
+        "popularidade": 28289,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/zeze-di-camargo-e-luciano/eu-sou-desejo-voce-paixao"
+      },
+      {
+        "id_unico_musica": "leonardo_tudo-me-lembra-voce",
+        "id_artista": "leonardo",
+        "id_musica": "tudo-me-lembra-voce",
+        "nome_artista": "Leonardo",
+        "nome_musica": "Tudo me lembra você",
+        "popularidade": 27281,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/leonardo/tudo-me-lembra-voce"
+      },
+      {
+        "id_unico_musica": "joao-neto-frederico_nossos-sonhos",
+        "id_artista": "joao-neto-frederico",
+        "id_musica": "nossos-sonhos",
+        "nome_artista": "João Neto e Frederico",
+        "nome_musica": "Nossos Sonhos",
+        "popularidade": 24539,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/joao-neto-frederico/nossos-sonhos"
+      },
+      {
+        "id_unico_musica": "daniel_memorias-de-uma-paixao",
+        "id_artista": "daniel",
+        "id_musica": "memorias-de-uma-paixao",
+        "nome_artista": "Daniel",
+        "nome_musica": "Memórias de Uma Paixão",
+        "popularidade": 24381,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/daniel/memorias-de-uma-paixao"
+      },
+      {
+        "id_unico_musica": "ze-neto-cristiano_tem-que-ter-pegada",
+        "id_artista": "ze-neto-cristiano",
+        "id_musica": "tem-que-ter-pegada",
+        "nome_artista": "Zé Neto e Cristiano",
+        "nome_musica": "Tem Que Ter Pegada",
+        "popularidade": 22800,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/ze-neto-cristiano/tem-que-ter-pegada"
+      },
+      {
+        "id_unico_musica": "leo-magalhaes_amores-imortais",
+        "id_artista": "leo-magalhaes",
+        "id_musica": "amores-imortais",
+        "nome_artista": "Léo Magalhães",
+        "nome_musica": "Amores Imortais",
+        "popularidade": 22544,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/leo-magalhaes/amores-imortais"
+      },
+      {
+        "id_unico_musica": "gabriel-gava_e-tome-amor",
+        "id_artista": "gabriel-gava",
+        "id_musica": "e-tome-amor",
+        "nome_artista": "Gabriel Gava",
+        "nome_musica": "E Tome Amor",
+        "popularidade": 19499,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/gabriel-gava/e-tome-amor"
+      },
+      {
+        "id_unico_musica": "joao-lucas-marcelo_se-beijar-na-boca-da-sapinho",
+        "id_artista": "joao-lucas-marcelo",
+        "id_musica": "se-beijar-na-boca-da-sapinho",
+        "nome_artista": "João Lucas e Marcelo",
+        "nome_musica": "Se Beijar Na Boca Dá Sapinho",
+        "popularidade": 18503,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/joao-lucas-marcelo/se-beijar-na-boca-da-sapinho"
+      },
+      {
+        "id_unico_musica": "joao-neto-frederico_se-entrega",
+        "id_artista": "joao-neto-frederico",
+        "id_musica": "se-entrega",
+        "nome_artista": "João Neto e Frederico",
+        "nome_musica": "Se Entrega",
+        "popularidade": 18380,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/joao-neto-frederico/se-entrega"
+      },
+      {
+        "id_unico_musica": "thaeme-thiago_29-de-agosto",
+        "id_artista": "thaeme-thiago",
+        "id_musica": "29-de-agosto",
+        "nome_artista": "Thaeme e Thiago",
+        "nome_musica": "29 de Agosto",
+        "popularidade": 15596,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/thaeme-thiago/29-de-agosto"
+      },
+      {
+        "id_unico_musica": "lucas-lucco_vem-nimim-mulherada",
+        "id_artista": "lucas-lucco",
+        "id_musica": "vem-nimim-mulherada",
+        "nome_artista": "Lucas Lucco",
+        "nome_musica": "Vem Nimim Mulherada",
+        "popularidade": 14532,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/lucas-lucco/vem-nimim-mulherada"
+      },
+      {
+        "id_unico_musica": "cristiano-araujo_nao-sei-me-controlar",
+        "id_artista": "cristiano-araujo",
+        "id_musica": "nao-sei-me-controlar",
+        "nome_artista": "Cristiano Araújo",
+        "nome_musica": "Não Sei Me Controlar",
+        "popularidade": 14390,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/cristiano-araujo/nao-sei-me-controlar"
+      },
+      {
+        "id_unico_musica": "mayck-lyan_querida",
+        "id_artista": "mayck-lyan",
+        "id_musica": "querida",
+        "nome_artista": "Mayck e Lyan",
+        "nome_musica": "Querida",
+        "popularidade": 14258,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/mayck-lyan/querida"
+      },
+      {
+        "id_unico_musica": "henrique-e-juliano_aqui-tem-fogo",
+        "id_artista": "henrique-e-juliano",
+        "id_musica": "aqui-tem-fogo",
+        "nome_artista": "Henrique e Juliano",
+        "nome_musica": "Aqui Tem Fogo",
+        "popularidade": 14017,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/henrique-e-juliano/aqui-tem-fogo"
+      },
+      {
+        "id_unico_musica": "conrado-aleksandro_no-lombo-das-prima",
+        "id_artista": "conrado-aleksandro",
+        "id_musica": "no-lombo-das-prima",
+        "nome_artista": "Conrado e Aleksandro",
+        "nome_musica": "No Lombo Das Prima",
+        "popularidade": 14001,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/conrado-aleksandro/no-lombo-das-prima"
+      },
+      {
+        "id_unico_musica": "conrado-aleksandro_caso-de-descaso",
+        "id_artista": "conrado-aleksandro",
+        "id_musica": "caso-de-descaso",
+        "nome_artista": "Conrado e Aleksandro",
+        "nome_musica": "Caso de Descaso",
+        "popularidade": 13750,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/conrado-aleksandro/caso-de-descaso"
+      },
+      {
+        "id_unico_musica": "israel-novaes_voce-merece-cache",
+        "id_artista": "israel-novaes",
+        "id_musica": "voce-merece-cache",
+        "nome_artista": "Israel Novaes",
+        "nome_musica": "Você Merece Cachê",
+        "popularidade": 12190,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/israel-novaes/voce-merece-cache"
+      },
+      {
+        "id_unico_musica": "luan-santana_foi-so-olhar-nos-seus-olhos",
+        "id_artista": "luan-santana",
+        "id_musica": "foi-so-olhar-nos-seus-olhos",
+        "nome_artista": "Luan Santana",
+        "nome_musica": "Foi Só Olhar Nos Seus Olhos",
+        "popularidade": 11672,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/luan-santana/foi-so-olhar-nos-seus-olhos"
+      },
+      {
+        "id_unico_musica": "joao-lucas-marcelo_as-mina-pira",
+        "id_artista": "joao-lucas-marcelo",
+        "id_musica": "as-mina-pira",
+        "nome_artista": "João Lucas e Marcelo",
+        "nome_musica": "As Mina Pira",
+        "popularidade": 10411,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/joao-lucas-marcelo/as-mina-pira"
+      },
+      {
+        "id_unico_musica": "fred-gustavo_pra-te-esquecer",
+        "id_artista": "fred-gustavo",
+        "id_musica": "pra-te-esquecer",
+        "nome_artista": "Fred & Gustavo",
+        "nome_musica": "Pra Te Esquecer",
+        "popularidade": 10260,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/fred-gustavo/pra-te-esquecer"
+      },
+      {
+        "id_unico_musica": "victor-leo_tudo-que-voce-ouvir",
+        "id_artista": "victor-leo",
+        "id_musica": "tudo-que-voce-ouvir",
+        "nome_artista": "Victor e Leo",
+        "nome_musica": "Tudo Que Você Ouvir",
+        "popularidade": 10189,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/victor-leo/tudo-que-voce-ouvir"
+      },
+      {
+        "id_unico_musica": "pedro-paulo-alex_ta-que-ta",
+        "id_artista": "pedro-paulo-alex",
+        "id_musica": "ta-que-ta",
+        "nome_artista": "Pedro Paulo e Alex",
+        "nome_musica": "Tá Que Tá",
+        "popularidade": 9298,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/pedro-paulo-alex/ta-que-ta"
+      },
+      {
+        "id_unico_musica": "lucas-lucco_chulep",
+        "id_artista": "lucas-lucco",
+        "id_musica": "chulep",
+        "nome_artista": "Lucas Lucco",
+        "nome_musica": "Chulep",
+        "popularidade": 9258,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/lucas-lucco/chulep"
+      },
+      {
+        "id_unico_musica": "victor-leo_estrada-vermelha",
+        "id_artista": "victor-leo",
+        "id_musica": "estrada-vermelha",
+        "nome_artista": "Victor e Leo",
+        "nome_musica": "Estrada Vermelha",
+        "popularidade": 8854,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/victor-leo/estrada-vermelha"
+      },
+      {
+        "id_unico_musica": "loubet_tsunami",
+        "id_artista": "loubet",
+        "id_musica": "tsunami",
+        "nome_artista": "Loubet",
+        "nome_musica": "tsunami",
+        "popularidade": 8727,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/loubet/tsunami"
+      },
+      {
+        "id_unico_musica": "conrado-aleksandro_tem-quem-me-ama",
+        "id_artista": "conrado-aleksandro",
+        "id_musica": "tem-quem-me-ama",
+        "nome_artista": "Conrado e Aleksandro",
+        "nome_musica": "Tem Quem Me Ama",
+        "popularidade": 8370,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/conrado-aleksandro/tem-quem-me-ama"
+      },
+      {
+        "id_unico_musica": "michel-telo_se-eu-nao-for",
+        "id_artista": "michel-telo",
+        "id_musica": "se-eu-nao-for",
+        "nome_artista": "Michel Teló",
+        "nome_musica": "Se Eu Não For",
+        "popularidade": 7565,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/michel-telo/se-eu-nao-for"
+      },
+      {
+        "id_unico_musica": "joao-carreiro-capataz_um-pedido-voce",
+        "id_artista": "joao-carreiro-capataz",
+        "id_musica": "um-pedido-voce",
+        "nome_artista": "João Carreiro e Capataz",
+        "nome_musica": "Um Pedido a Você",
+        "popularidade": 7416,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/joao-carreiro-capataz/um-pedido-voce"
+      },
+      {
+        "id_unico_musica": "henrique-diego_indecisao",
+        "id_artista": "henrique-diego",
+        "id_musica": "indecisao",
+        "nome_artista": "Henrique e Diego",
+        "nome_musica": "Indecisão",
+        "popularidade": 6889,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/henrique-diego/indecisao"
+      },
+      {
+        "id_unico_musica": "marcos-belutti_to-fora",
+        "id_artista": "marcos-belutti",
+        "id_musica": "to-fora",
+        "nome_artista": "Marcos e Belutti",
+        "nome_musica": "Tô Fora",
+        "popularidade": 6866,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/marcos-belutti/to-fora"
+      },
+      {
+        "id_unico_musica": "pedro-paulo-alex_danca-kuduro",
+        "id_artista": "pedro-paulo-alex",
+        "id_musica": "danca-kuduro",
+        "nome_artista": "Pedro Paulo e Alex",
+        "nome_musica": "Dança Kuduro",
+        "popularidade": 6336,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/pedro-paulo-alex/danca-kuduro"
+      },
+      {
+        "id_unico_musica": "lucas-lucco_muie",
+        "id_artista": "lucas-lucco",
+        "id_musica": "muie",
+        "nome_artista": "Lucas Lucco",
+        "nome_musica": "Muié",
+        "popularidade": 6322,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/lucas-lucco/muie"
+      },
+      {
+        "id_unico_musica": "matheus-kauan_se-voltar-e-seu",
+        "id_artista": "matheus-kauan",
+        "id_musica": "se-voltar-e-seu",
+        "nome_artista": "Matheus e Kauan",
+        "nome_musica": "Se Voltar É Seu",
+        "popularidade": 6295,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/matheus-kauan/se-voltar-e-seu"
+      },
+      {
+        "id_unico_musica": "henrique-e-juliano_sem-nome",
+        "id_artista": "henrique-e-juliano",
+        "id_musica": "sem-nome",
+        "nome_artista": "Henrique e Juliano",
+        "nome_musica": "Sem Nome",
+        "popularidade": 6051,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/henrique-e-juliano/sem-nome"
+      },
+      {
+        "id_unico_musica": "joao-lucas-marcelo_nao-sei-me-controlar",
+        "id_artista": "joao-lucas-marcelo",
+        "id_musica": "nao-sei-me-controlar",
+        "nome_artista": "João Lucas e Marcelo",
+        "nome_musica": "Não Sei Me Controlar",
+        "popularidade": 5468,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/joao-lucas-marcelo/nao-sei-me-controlar"
+      },
+      {
+        "id_unico_musica": "munhoz-mariano_paixao-que-nao-deu-certo",
+        "id_artista": "munhoz-mariano",
+        "id_musica": "paixao-que-nao-deu-certo",
+        "nome_artista": "Munhoz & Mariano",
+        "nome_musica": "Paixão Que Não Deu Certo",
+        "popularidade": 4903,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/munhoz-mariano/paixao-que-nao-deu-certo"
+      },
+      {
+        "id_unico_musica": "marcos-belutti_caixa-dagua",
+        "id_artista": "marcos-belutti",
+        "id_musica": "caixa-dagua",
+        "nome_artista": "Marcos e Belutti",
+        "nome_musica": "Caixa D'água",
+        "popularidade": 3799,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/marcos-belutti/caixa-dagua"
+      },
+      {
+        "id_unico_musica": "robson-biollo_te-vi-nos-meus-sonhos",
+        "id_artista": "robson-biollo",
+        "id_musica": "te-vi-nos-meus-sonhos",
+        "nome_artista": "Robson Biollo",
+        "nome_musica": "Te Vi Nos Meus Sonhos",
+        "popularidade": 3625,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/robson-biollo/te-vi-nos-meus-sonhos"
+      },
+      {
+        "id_unico_musica": "maria-cecilia-rodolfo_espalhe-amor",
+        "id_artista": "maria-cecilia-rodolfo",
+        "id_musica": "espalhe-amor",
+        "nome_artista": "Maria Cecília e Rodolfo",
+        "nome_musica": "Espalhe Amor",
+        "popularidade": 3181,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/maria-cecilia-rodolfo/espalhe-amor"
+      },
+      {
+        "id_unico_musica": "thaeme-thiago_partiu-balada",
+        "id_artista": "thaeme-thiago",
+        "id_musica": "partiu-balada",
+        "nome_artista": "Thaeme e Thiago",
+        "nome_musica": "Partiu Balada",
+        "popularidade": 3170,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/thaeme-thiago/partiu-balada"
+      },
+      {
+        "id_unico_musica": "fernando-sorocaba_sem-reacao",
+        "id_artista": "fernando-sorocaba",
+        "id_musica": "sem-reacao",
+        "nome_artista": "Fernando e Sorocaba",
+        "nome_musica": "Sem Reação",
+        "popularidade": 2982,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/fernando-sorocaba/sem-reacao"
+      },
+      {
+        "id_unico_musica": "fernando-sorocaba_cruel",
+        "id_artista": "fernando-sorocaba",
+        "id_musica": "cruel",
+        "nome_artista": "Fernando e Sorocaba",
+        "nome_musica": "Cruel",
+        "popularidade": 2583,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/fernando-sorocaba/cruel"
+      },
+      {
+        "id_unico_musica": "banda-passarela_toma-juizo",
+        "id_artista": "banda-passarela",
+        "id_musica": "toma-juizo",
+        "nome_artista": "Banda Passarela",
+        "nome_musica": "Toma Juizo",
+        "popularidade": 2242,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/banda-passarela/toma-juizo"
+      },
+      {
+        "id_unico_musica": "gilberto-e-gilmar_nao-me-deixe-no-escuro",
+        "id_artista": "gilberto-e-gilmar",
+        "id_musica": "nao-me-deixe-no-escuro",
+        "nome_artista": "Gilberto e Gilmar",
+        "nome_musica": "Não Me Deixe No Escuro",
+        "popularidade": 1917,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/gilberto-e-gilmar/nao-me-deixe-no-escuro"
+      },
+      {
+        "id_unico_musica": "kleo-dibah-rafael_e-dus-mais-bao",
+        "id_artista": "kleo-dibah-rafael",
+        "id_musica": "e-dus-mais-bao",
+        "nome_artista": "Kleo Dibah & Rafael",
+        "nome_musica": "É Dus Mais Bão",
+        "popularidade": 1502,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/kleo-dibah-rafael/e-dus-mais-bao"
+      },
+      {
+        "id_unico_musica": "israel-novaes_mae-deixa-eu-beber",
+        "id_artista": "israel-novaes",
+        "id_musica": "mae-deixa-eu-beber",
+        "nome_artista": "Israel Novaes",
+        "nome_musica": "Mãe Deixa Eu Beber",
+        "popularidade": 1312,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/israel-novaes/mae-deixa-eu-beber"
+      },
+      {
+        "id_unico_musica": "israel-rodolfo_no-escondidinho",
+        "id_artista": "israel-rodolfo",
+        "id_musica": "no-escondidinho",
+        "nome_artista": "Israel e Rodolffo",
+        "nome_musica": "No Escondidinho",
+        "popularidade": 1147,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/israel-rodolfo/no-escondidinho"
+      },
+      {
+        "id_unico_musica": "fernando-sorocaba_cruel-",
+        "id_artista": "fernando-sorocaba",
+        "id_musica": "cruel-",
+        "nome_artista": "Fernando e Sorocaba",
+        "nome_musica": "Cruel",
+        "popularidade": 922,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/fernando-sorocaba/cruel-"
+      },
+      {
+        "id_unico_musica": "ze-neto-cristiano_festa-do-cabide",
+        "id_artista": "ze-neto-cristiano",
+        "id_musica": "festa-do-cabide",
+        "nome_artista": "Zé Neto e Cristiano",
+        "nome_musica": "Festa do Cabide",
+        "popularidade": 713,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/ze-neto-cristiano/festa-do-cabide"
+      },
+      {
+        "id_unico_musica": "guilherme-e-santiago_solteiro-em-goiania",
+        "id_artista": "guilherme-e-santiago",
+        "id_musica": "solteiro-em-goiania",
+        "nome_artista": "Guilherme & Santiago",
+        "nome_musica": "Solteiro Em Goiânia",
+        "popularidade": 691,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/guilherme-e-santiago/solteiro-em-goiania"
+      },
+      {
+        "id_unico_musica": "guilherme-e-santiago_agora-ce-ta-solta",
+        "id_artista": "guilherme-e-santiago",
+        "id_musica": "agora-ce-ta-solta",
+        "nome_artista": "Guilherme & Santiago",
+        "nome_musica": "Agora Cê Ta Solta",
+        "popularidade": 652,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/guilherme-e-santiago/agora-ce-ta-solta"
+      },
+      {
+        "id_unico_musica": "conrado-aleksandro_estrangeira",
+        "id_artista": "conrado-aleksandro",
+        "id_musica": "estrangeira",
+        "nome_artista": "Conrado e Aleksandro",
+        "nome_musica": "Estrangeira",
+        "popularidade": 650,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/conrado-aleksandro/estrangeira"
+      },
+      {
+        "id_unico_musica": "matheus-kauan_se-entrega",
+        "id_artista": "matheus-kauan",
+        "id_musica": "se-entrega",
+        "nome_artista": "Matheus e Kauan",
+        "nome_musica": "Se Entrega",
+        "popularidade": 526,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Sertanejo",
+        "url": "http://www.cifraclub.com.br/matheus-kauan/se-entrega"
+      },
+      {
+        "id_unico_musica": "damien-rice_9-crimes",
+        "id_artista": "damien-rice",
+        "id_musica": "9-crimes",
+        "nome_artista": "Damien Rice",
+        "nome_musica": "9 Crimes",
+        "popularidade": 37192,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Folk",
+        "url": "http://www.cifraclub.com.br/damien-rice/9-crimes"
+      },
+      {
+        "id_unico_musica": "mumford-sons_babel",
+        "id_artista": "mumford-sons",
+        "id_musica": "babel",
+        "nome_artista": "Mumford & Sons",
+        "nome_musica": "Babel",
+        "popularidade": 11472,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Folk",
+        "url": "http://www.cifraclub.com.br/mumford-sons/babel"
+      },
+      {
+        "id_unico_musica": "jake-bugg_someone-told-me",
+        "id_artista": "jake-bugg",
+        "id_musica": "someone-told-me",
+        "nome_artista": "Jake Bugg",
+        "nome_musica": "Someone Told Me",
+        "popularidade": 8902,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Folk",
+        "url": "http://www.cifraclub.com.br/jake-bugg/someone-told-me"
+      },
+      {
+        "id_unico_musica": "mumford-sons_whispers-in-the-dark",
+        "id_artista": "mumford-sons",
+        "id_musica": "whispers-in-the-dark",
+        "nome_artista": "Mumford & Sons",
+        "nome_musica": "Whispers In The Dark",
+        "popularidade": 3845,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Folk",
+        "url": "http://www.cifraclub.com.br/mumford-sons/whispers-in-the-dark"
+      },
+      {
+        "id_unico_musica": "mumford-sons_not-with-haste",
+        "id_artista": "mumford-sons",
+        "id_musica": "not-with-haste",
+        "nome_artista": "Mumford & Sons",
+        "nome_musica": "Not With Haste",
+        "popularidade": 1779,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Folk",
+        "url": "http://www.cifraclub.com.br/mumford-sons/not-with-haste"
+      },
+      {
+        "id_unico_musica": "johnny-cash_for-you",
+        "id_artista": "johnny-cash",
+        "id_musica": "for-you",
+        "nome_artista": "Johnny Cash",
+        "nome_musica": "For You",
+        "popularidade": 1378,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Folk",
+        "url": "http://www.cifraclub.com.br/johnny-cash/for-you"
+      },
+      {
+        "id_unico_musica": "the-white-buffalo_house-of-pain",
+        "id_artista": "the-white-buffalo",
+        "id_musica": "house-of-pain",
+        "nome_artista": "The White Buffalo",
+        "nome_musica": "House Of Pain",
+        "popularidade": 1356,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Folk",
+        "url": "http://www.cifraclub.com.br/the-white-buffalo/house-of-pain"
+      },
+      {
+        "id_unico_musica": "mumford-sons_holland-road",
+        "id_artista": "mumford-sons",
+        "id_musica": "holland-road",
+        "nome_artista": "Mumford & Sons",
+        "nome_musica": "Holland Road",
+        "popularidade": 953,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Folk",
+        "url": "http://www.cifraclub.com.br/mumford-sons/holland-road"
+      },
+      {
+        "id_unico_musica": "mumford-sons_kansas-city",
+        "id_artista": "mumford-sons",
+        "id_musica": "kansas-city",
+        "nome_artista": "Mumford & Sons",
+        "nome_musica": "Kansas City",
+        "popularidade": 384,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Folk",
+        "url": "http://www.cifraclub.com.br/mumford-sons/kansas-city"
+      },
+      {
+        "id_unico_musica": "stone-sour_zzyxz-rd",
+        "id_artista": "stone-sour",
+        "id_musica": "zzyxz-rd",
+        "nome_artista": "Stone Sour",
+        "nome_musica": "Zzyxz Rd.",
+        "popularidade": 33231,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/stone-sour/zzyxz-rd"
+      },
+      {
+        "id_unico_musica": "rod-stewart_baby-jane",
+        "id_artista": "rod-stewart",
+        "id_musica": "baby-jane",
+        "nome_artista": "Rod Stewart",
+        "nome_musica": "Baby Jane",
+        "popularidade": 25204,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/rod-stewart/baby-jane"
+      },
+      {
+        "id_unico_musica": "strike_a-ultima-chance",
+        "id_artista": "strike",
+        "id_musica": "a-ultima-chance",
+        "nome_artista": "Strike",
+        "nome_musica": "A Última Chance",
+        "popularidade": 23667,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/strike/a-ultima-chance"
+      },
+      {
+        "id_unico_musica": "secos-molhados_preto-velho",
+        "id_artista": "secos-molhados",
+        "id_musica": "preto-velho",
+        "nome_artista": "Secos & Molhados",
+        "nome_musica": "Preto Velho",
+        "popularidade": 19737,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/secos-molhados/preto-velho"
+      },
+      {
+        "id_unico_musica": "zimbra_pra-voce-lembrar-de-mim",
+        "id_artista": "zimbra",
+        "id_musica": "pra-voce-lembrar-de-mim",
+        "nome_artista": "Zimbra",
+        "nome_musica": "Pra Você Lembrar de Mim",
+        "popularidade": 4085,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/zimbra/pra-voce-lembrar-de-mim"
+      },
+      {
+        "id_unico_musica": "banda-malta_nada-se-compara",
+        "id_artista": "banda-malta",
+        "id_musica": "nada-se-compara",
+        "nome_artista": "Malta",
+        "nome_musica": "Nada Se Compara",
+        "popularidade": 3413,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/banda-malta/nada-se-compara"
+      },
+      {
+        "id_unico_musica": "bon-jovi_amen",
+        "id_artista": "bon-jovi",
+        "id_musica": "amen",
+        "nome_artista": "Bon Jovi",
+        "nome_musica": "Amen",
+        "popularidade": 2476,
+        "acordes": [
+          "G",
+          "F",
+          "C",
+          "Am"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/bon-jovi/amen"
+      },
+      {
+        "id_unico_musica": "salz-band_teu-rio",
+        "id_artista": "salz-band",
+        "id_musica": "teu-rio",
+        "nome_artista": "Salz Band",
+        "nome_musica": "Teu Rio",
+        "popularidade": 1301,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/salz-band/teu-rio"
+      },
+      {
+        "id_unico_musica": "temas-infantis_ciranda-cirandinha",
+        "id_artista": "temas-infantis",
+        "id_musica": "ciranda-cirandinha",
+        "nome_artista": "Temas Infantis",
+        "nome_musica": "Ciranda cirandinha",
+        "popularidade": 151837,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Infantil",
+        "url": "http://www.cifraclub.com.br/temas-infantis/ciranda-cirandinha"
+      },
+      {
+        "id_unico_musica": "david-guetta_ill-keep-loving-you",
+        "id_artista": "david-guetta",
+        "id_musica": "ill-keep-loving-you",
+        "nome_artista": "David Guetta",
+        "nome_musica": "I'll Keep Loving You",
+        "popularidade": 45,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Eletrônica",
+        "url": "http://www.cifraclub.com.br/david-guetta/ill-keep-loving-you"
+      },
+      {
+        "id_unico_musica": "system-of-a-down_dammit",
+        "id_artista": "system-of-a-down",
+        "id_musica": "dammit",
+        "nome_artista": "System Of a Down",
+        "nome_musica": "Dammit",
+        "popularidade": 9341,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Heavy Metal",
+        "url": "http://www.cifraclub.com.br/system-of-a-down/dammit"
+      },
+      {
+        "id_unico_musica": "vander-lee_subindo-ladeira",
+        "id_artista": "vander-lee",
+        "id_musica": "subindo-ladeira",
+        "nome_artista": "Vander Lee",
+        "nome_musica": "Subindo a ladeira",
+        "popularidade": 17721,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "MPB",
+        "url": "http://www.cifraclub.com.br/vander-lee/subindo-ladeira"
+      },
+      {
+        "id_unico_musica": "bee-gees_then-you-left-me",
+        "id_artista": "bee-gees",
+        "id_musica": "then-you-left-me",
+        "nome_artista": "Bee Gees",
+        "nome_musica": "Then You Left Me",
+        "popularidade": 389,
+        "acordes": [
+          "G",
+          "Am",
+          "F",
+          "C"
+        ],
+        "genero": "Disco",
+        "url": "http://www.cifraclub.com.br/bee-gees/then-you-left-me"
+      }
+    ],
+    []
+  ]
+}

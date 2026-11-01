@@ -1,0 +1,64 @@
+{
+  "sequencia": "EmG",
+  "paginas": [
+    [
+      {
+        "id_unico_musica": "marcelo-d2_mao-na-cabeca",
+        "id_artista": "marcelo-d2",
+        "id_musica": "mao-na-cabeca",
+        "nome_artista": "Marcelo D2",
+        "nome_musica": "Mão Na Cabeça",
+        "popularidade": 4327,
+        "acordes": [
+          "G",
+          "Em"
+        ],
+        "genero": "Hip Hop/Rap",
+        "url": "http://www.cifraclub.com.br/marcelo-d2/mao-na-cabeca"
+      },
+      {
+        "id_unico_musica": "ultraje-a-rigor_inutil",
+        "id_artista": "ultraje-a-rigor",
+        "id_musica": "inutil",
+        "nome_artista": "Ultraje a Rigor",
+        "nome_musica": "Inútil",
+        "popularidade": 291127,
+        "acordes": [
+          "G",
+          "Em"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/ultraje-a-rigor/inutil"
+      },
+      {
+        "id_unico_musica": "eric-clapton_fall-like-rain",
+        "id_artista": "eric-clapton",
+        "id_musica": "fall-like-rain",
+        "nome_artista": "Eric Clapton",
+        "nome_musica": "Fall Like Rain",
+        "popularidade": 2021,
+        "acordes": [
+          "G",
+          "Em"
+        ],
+        "genero": "Rock",
+        "url": "http://www.cifraclub.com.br/eric-clapton/fall-like-rain"
+      },
+      {
+        "id_unico_musica": "planet-hemp_mao-na-cabeca",
+        "id_artista": "planet-hemp",
+        "id_musica": "mao-na-cabeca",
+        "nome_artista": "Planet Hemp",
+        "nome_musica": "Mão Na Cabeça",
+        "popularidade": 9934,
+        "acordes": [
+          "G",
+          "Em"
+        ],
+        "genero": "Hardcore",
+        "url": "http://www.cifraclub.com.br/planet-hemp/mao-na-cabeca"
+      }
+    ],
+    []
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "sequencia": "CA7DmG7",
+  "paginas": [
+    [
+      {
+        "id_unico_musica": "martinho-da-vila_na-aba",
+        "id_artista": "martinho-da-vila",
+        "id_musica": "na-aba",
+        "nome_artista": "Martinho da Vila",
+        "nome_musica": "Na Aba",
+        "popularidade": 19877,
+        "acordes": [
+          "Dm",
+          "A7",
+          "G7",
+          "C"
+        ],
+        "genero": "Samba",
+        "url": "http://www.cifraclub.com.br/martinho-da-vila/na-aba"
+      },
+      {
+        "id_unico_musica": "benito-di-paula_bendito-seja",
+        "id_artista": "benito-di-paula",
+        "id_musica": "bendito-seja",
+        "nome_artista": "Benito Di Paula",
+        "nome_musica": "Bendito Seja",
+        "popularidade": 9206,
+        "acordes": [
+          "Dm",
+          "A7",
+          "G7",
+          "C"
+        ],
+        "genero": "Samba",
+        "url": "http://www.cifraclub.com.br/benito-di-paula/bendito-seja"
+      },
+      {
+        "id_unico_musica": "arlindo-cruz_vai-pro-lado-de-ca",
+        "id_artista": "arlindo-cruz",
+        "id_musica": "vai-pro-lado-de-ca",
+        "nome_artista": "Arlindo Cruz",
+        "nome_musica": "Vai Pro Lado de Cá",
+        "popularidade": 4815,
+        "acordes": [
+          "Dm",
+          "A7",
+          "G7",
+          "C"
+        ],
+        "genero": "Samba",
+        "url": "http://www.cifraclub.com.br/arlindo-cruz/vai-pro-lado-de-ca"
+      },
+      {
+        "id_unico_musica": "dorival-caymmi_requebre-que-eu-dou-um-doce",
+        "id_artista": "dorival-caymmi",
+        "id_musica": "requebre-que-eu-dou-um-doce",
+        "nome_artista": "Dorival Caymmi",
+        "nome_musica": "Requebre que Eu Dou um Doce",
+        "popularidade": 3822,
+        "acordes": [
+          "Dm",
+          "A7",
+          "G7",
+          "C"
+        ],
+        "genero": "Samba",
+        "url": "http://www.cifraclub.com.br/dorival-caymmi/requebre-que-eu-dou-um-doce"
+      },
+      {
+        "id_unico_musica": "bezerra-da-silva_na-aba",
+        "id_artista": "bezerra-da-silva",
+        "id_musica": "na-aba",
+        "nome_artista": "Bezerra da Silva",
+        "nome_musica": "Na Aba",
+        "popularidade": 2227,
+        "acordes": [
+          "Dm",
+          "A7",
+          "G7",
+          "C"
+        ],
+        "genero": "Samba",
+        "url": "http://www.cifraclub.com.br/bezerra-da-silva/na-aba"
+      }
+    ],
+    []
+  ]
+}

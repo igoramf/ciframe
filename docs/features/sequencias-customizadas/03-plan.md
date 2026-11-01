@@ -2,7 +2,7 @@
 
 ## Passos
 
-1. [ ] **Capturar o baseline de `/similares` antes de tocar no código.**
+1. [x] **Capturar o baseline de `/similares` antes de tocar no código.**
    - Criar `scripts/capturar_baseline_similares.py` (só biblioteca padrão): para
      cada chave legada (`BmGDA`, `CGAmF`, `EmG`, `CA7DmG7`, `GmF`, `CC7FFm`),
      pedir `GET /similares?sequencia=<chave>&pagina=N` a partir de `N=1` até

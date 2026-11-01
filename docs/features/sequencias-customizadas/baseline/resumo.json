@@ -1,0 +1,57 @@
+{
+  "base_url": "http://localhost:8080",
+  "csv": {
+    "caminho": "data/top/dataset_final.csv",
+    "sha256": "5f94f49b945ffac76f9a114b353b51d6a07b9e6feeb1243ce5989295234b9207"
+  },
+  "sequencias": [
+    {
+      "arquivo": "similares_BmGDA.json",
+      "paginas": 2,
+      "requisicoes": 3,
+      "sequencia": "BmGDA",
+      "sha256": "f6962f7fcbc535a484da9fdb9dbd709ef83211335973eca4132a0c9fc31aa51c",
+      "total": 199
+    },
+    {
+      "arquivo": "similares_CGAmF.json",
+      "paginas": 3,
+      "requisicoes": 4,
+      "sequencia": "CGAmF",
+      "sha256": "d7dabd8d531f2ce4ee1f970938a586203f50e7c4547ee14003bc54288e8affcf",
+      "total": 296
+    },
+    {
+      "arquivo": "similares_EmG.json",
+      "paginas": 1,
+      "requisicoes": 2,
+      "sequencia": "EmG",
+      "sha256": "a950a2a8ec98968b781a002adeeb73f5c99d9f447f22e31a1a5913e0fd8daeb8",
+      "total": 4
+    },
+    {
+      "arquivo": "similares_CA7DmG7.json",
+      "paginas": 1,
+      "requisicoes": 2,
+      "sequencia": "CA7DmG7",
+      "sha256": "b8914fe684f5e98b3381328f8afef7c0a7cfae5eadf91af708ffb931ea1976cd",
+      "total": 5
+    },
+    {
+      "arquivo": "similares_GmF.json",
+      "paginas": 1,
+      "requisicoes": 2,
+      "sequencia": "GmF",
+      "sha256": "d17d5e90a26547d08954e8a5aeaed1fe0eeacdb79167345e9712ffb0ed4bac50",
+      "total": 7
+    },
+    {
+      "arquivo": "similares_CC7FFm.json",
+      "paginas": 1,
+      "requisicoes": 2,
+      "sequencia": "CC7FFm",
+      "sha256": "4792cece70ffe4c4064a6cfe1d7db1160cc9db54268c21f1559be30584ab4e84",
+      "total": 3
+    }
+  ]
+}
