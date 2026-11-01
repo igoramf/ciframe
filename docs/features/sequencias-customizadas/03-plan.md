@@ -100,7 +100,7 @@
    - **Verificação:** `python3 -m unittest tests.test_api -v` passa e a resposta
      mantém `Content-Type` textual e CORS `*`.
 
-6. [ ] **Ligar o frontend ao catálogo real e buscar por `sequencia_id`.**
+6. [x] **Ligar o frontend ao catálogo real e buscar por `sequencia_id`.**
    - Remover os 4 presets hardcoded de `sequencia.js` e carregar
      `GET /sequencias` no `init` do controller, exibindo as 6 originais e as
      novas com nome.
