@@ -22,7 +22,7 @@
    - **Verificação:** `comparar_baseline_similares.py` retorna sucesso contra o
      próprio baseline recém-capturado. Commitar os artefatos antes do passo 2.
 
-2. [ ] **Criar o matcher puro em `matching.py`.**
+2. [x] **Criar o matcher puro em `matching.py`.**
    - Implementar `corresponde(cifra_musica, acordes_sequencia)` com a regra E:
      normalizar os dois lados para minúsculas, exigir bloco contíguo alinhado a
      tokens e exigir que todo token da música pertença ao vocabulário da
