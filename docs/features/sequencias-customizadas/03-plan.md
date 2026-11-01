@@ -36,7 +36,7 @@
    - **Verificação:** `python3 -m unittest tests.test_matching -v` passa. Nada em
      `main.py` importa o módulo ainda.
 
-3. [ ] **Criar o banco SQLite e o catálogo em `db.py`.**
+3. [x] **Criar o banco SQLite e o catálogo em `db.py`.**
    - Implementar caminho configurável por `SEQUENCES_DB`, com default
      `instance/sequences.db`; criar o diretório se não existir; abrir conexão por
      operação com `busy_timeout`.
