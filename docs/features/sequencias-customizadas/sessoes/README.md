@@ -1,5 +1,9 @@
 # Sessões do opencode (BigPickle)
 
+Arquivo de entrega: `igor.falcao@ccc.ufcg.edu.br-reppit.json`, um array JSON com as
+4 sessões abaixo na ordem das fases (cada item é a saída de
+`opencode session export <id>`; o `opencode export` do form não existe na v2.0.14).
+
 | Arquivo | Fase | Comando RePPIT |
 | --- | --- | --- |
 | `01-pesquisa.json` | 1. Pesquisa | `/research-codebase` |
