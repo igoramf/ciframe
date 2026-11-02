@@ -37,3 +37,7 @@ python3 scripts/validar_matching.py
 - **Reordenação complexa** no construtor: a proposta usa "clicar para adicionar/remover no fim" e não um editor de drag-and-drop (suficiente para cobrir os testes de validação).
 - **Normalização de acordes** (enarmonia, unificação de sufixos, inversões) — explicitamente fora do escopo; o matcher continua restrito a `lower()` apenas.
 - **Testes E2E automatizados no browser** nesta suíte `unittest`; a verificação visual foi feita manualmente via `agent-browser` (catálogo, busca por `sequencia_id`, paginação “carregar mais”, gêneros do backend, estado vazio, cadastro + persistência com volume).
+
+## Demonstração
+
+`docs/features/sequencias-customizadas/demo.mp4`: sequência original Bm-G-D-A ainda retornando músicas, cadastro de G-D-Em-C ("Acordes do POP") pelo construtor e busca pela sequência nova.
