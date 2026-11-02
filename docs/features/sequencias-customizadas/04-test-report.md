@@ -40,4 +40,8 @@ python3 scripts/validar_matching.py
 
 ## Demonstração
 
-`docs/features/sequencias-customizadas/demo.mp4`: sequência original Bm-G-D-A ainda retornando músicas, cadastro de G-D-Em-C ("Acordes do POP") pelo construtor e busca pela sequência nova.
+Sequência original Bm-G-D-A ainda retornando músicas, cadastro de G-D-Em-C ("Acordes do POP") pelo construtor e busca pela sequência nova.
+
+![demo](demo.gif)
+
+Versão em vídeo: [`demo.mp4`](demo.mp4).
