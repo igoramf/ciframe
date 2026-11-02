@@ -176,6 +176,7 @@
 | `static/assets/css/app.css` | Estilos do construtor, “carregar mais” e estado vazio |
 | `Dockerfile` | `VOLUME /app/instance` |
 | `.gitignore` | Ignora `instance/` e `*.db` |
+| `.dockerignore` | Evita copiar `instance/` e `*.db` locais para a imagem |
 | `README.md` | Comando com `-v ciframe-data:/app/instance` e nota de persistência |
 | `AGENTS.md` | Mesmo comando/nota no “Run locally” |
 

@@ -74,7 +74,7 @@
 
         <div class="row row-in">
           <div class="col-sm-6 col-lg-4"
-            ng-repeat="music in Sequencia.musics | orderBy:'-popularidade'">
+            ng-repeat="music in Sequencia.musics | orderBy:'-popularidade' track by music.id_unico_musica">
 
               <div class="music-card" ng-click="Sequencia.goToLirics(music)">
                 <div class="row row-in">

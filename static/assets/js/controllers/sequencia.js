@@ -18,6 +18,7 @@ angular.module('deciframeApp').controller('SequenciaController', function($http,
   vm.carregandoMais = false;
   vm.buscaRealizada = false;
   var idsCarregados = {};
+  var buscaAtual = 0;
 
   vm.mostrarConstrutor = false;
   vm.sequenciaEmConstrucao = [];
@@ -95,6 +96,8 @@ angular.module('deciframeApp').controller('SequenciaController', function($http,
       return;
     }
 
+    var token = ++buscaAtual;
+
     var searchString = "similares?sequencia_id=".concat(vm.minhaSequencia.id)
       .concat("&pagina=").concat(pagina);
     if (vm.meuGenero !== "" && vm.meuGenero !== null) {
@@ -116,6 +119,9 @@ angular.module('deciframeApp').controller('SequenciaController', function($http,
 
     $http.get(searchString)
       .success(function(data) {
+        if (token !== buscaAtual) {
+          return;
+        }
         var novas = data.filter(function(musica) {
           if (idsCarregados[musica.id_unico_musica]) {
             return false;
@@ -135,6 +141,9 @@ angular.module('deciframeApp').controller('SequenciaController', function($http,
         vm.musics = acumular ? vm.musics.concat(novas) : novas;
       })
       .error(function(data) {
+        if (token !== buscaAtual) {
+          return;
+        }
         vm.esfigeSpeech = "Ops! Algo errado.";
         vm.isSearching = false;
         vm.carregandoMais = false;
@@ -191,11 +200,17 @@ angular.module('deciframeApp').controller('SequenciaController', function($http,
   };
 
   vm.limparPesquisa = function() {
+    buscaAtual += 1;
     vm.minhaSequencia = { acordes: [] };
     vm.musics = [];
     vm.buscaRealizada = false;
     vm.temMais = false;
     vm.paginaAtual = 1;
+    vm.isSearching = false;
+    vm.carregandoMais = false;
+    vm.showSearchResultsCount = false;
+    vm.esfigeSpeech = "";
+    vm.progressbar.complete();
     idsCarregados = {};
   }
 
