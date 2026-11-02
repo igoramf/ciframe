@@ -140,7 +140,7 @@
      uma sequência, fazer `docker restart` e confirmar que ela continua; depois
      `docker rm` + novo `docker run` com o mesmo volume e confirmar de novo.
 
-9. [ ] **Fechar a regressão e documentar os testes.**
+9. [x] **Fechar a regressão e documentar os testes.**
    - Acrescentar ao `scripts/validar_matching.py` uma seção que compara o
      `matching.corresponde` de runtime com a tag `SEQ_FAMOSA` para as 6
      sequências, por conjunto de `id_unico_musica`, sem importar Flask.
@@ -197,26 +197,26 @@ Sem mudança: `requirements.txt` (SQLite é da biblioteca padrão),
 
 ## Definição de pronto
 
-- [ ] Baseline das 6 sequências capturado antes da mudança e comparador de
+- [x] Baseline das 6 sequências capturado antes da mudança e comparador de
       controle passando contra o código antigo.
-- [ ] `GET /similares?sequencia=<legacy_key>` devolve exatamente os mesmos
+- [x] `GET /similares?sequencia=<legacy_key>` devolve exatamente os mesmos
       `id_unico_musica`, na mesma ordem, que o baseline: `199, 296, 4, 5, 7, 3`.
-- [ ] `GET /similares?sequencia_id=<id>` funciona para as 6 originais e para
+- [x] `GET /similares?sequencia_id=<id>` funciona para as 6 originais e para
       sequências novas, com paginação de 100 e filtro de gênero.
-- [ ] `GET /sequencias` lista as 6 originais primeiro e todas as novas.
-- [ ] `POST /sequencias` cria (`201`), deduplica (`201` com a linha existente) e
+- [x] `GET /sequencias` lista as 6 originais primeiro e todas as novas.
+- [x] `POST /sequencias` cria (`201`), deduplica (`201` com a linha existente) e
       rejeita entrada inválida (`400`); uma sequência nova cadastrada é
       encontrável pela busca.
-- [ ] Sequência nova persiste após `docker restart` e após `docker rm` + novo
+- [x] Sequência nova persiste após `docker restart` e após `docker rm` + novo
       `docker run` com o mesmo volume nomeado.
-- [ ] `#/porsequencia` mostra as 6 + novas, cadastra sequência ordenada, busca
+- [x] `#/porsequencia` mostra as 6 + novas, cadastra sequência ordenada, busca
       por `id`, pagina com “carregar mais”, usa os 52 gêneros do backend e
       explica o estado vazio.
-- [ ] `seqs_famosas` não é mais usado em runtime; a coluna `SEQ_FAMOSA` e o CSV
+- [x] `seqs_famosas` não é mais usado em runtime; a coluna `SEQ_FAMOSA` e o CSV
       continuam intactos apenas como oráculo de teste.
-- [ ] `scripts/validar_matching.py` continua mostrando a regra E idêntica à tag
+- [x] `scripts/validar_matching.py` continua mostrando a regra E idêntica à tag
       nas 6 sequências, e a suíte `unittest` passa.
-- [ ] Endpoints continuam devolvendo `json.dumps` como `text/html` e mantendo
+- [x] Endpoints continuam devolvendo `json.dumps` como `text/html` e mantendo
       CORS `*`; nenhum endpoint fora do escopo mudou.
-- [ ] `04-test-report.md` preenchido com cobertura, comandos e resultado da
+- [x] `04-test-report.md` preenchido com cobertura, comandos e resultado da
       regressão.

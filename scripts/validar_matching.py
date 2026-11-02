@@ -12,13 +12,21 @@ Uso:
     python3 scripts/validar_matching.py [caminho_do_csv]
 
 Requer apenas a biblioteca padrao (Python 3). Nao importa Flask nem `main.py`,
-para poder rodar sem as dependencias da aplicacao instaladas.
+para poder rodar sem as dependencias da aplicacao instaladas. A secao 7 importa
+`matching.py`, que tambem so usa a biblioteca padrao.
 """
 
 import argparse
+import os
 import re
 import sys
 from collections import Counter
+
+RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if RAIZ not in sys.path:
+    sys.path.insert(0, RAIZ)
+
+import matching  # noqa: E402  (precisa do RAIZ no sys.path)
 
 CSV_PADRAO = 'data/top/dataset_final.csv'
 
@@ -324,6 +332,38 @@ def relatorio_normalizacao(linhas):
     print()
 
 
+def ids_por_runtime(linhas, seq):
+    return {l['id'] for l in linhas if matching.corresponde(l['cifra'], seq)}
+
+
+def relatorio_runtime(linhas):
+    """Compara o matcher que roda em producao com a tag pre-computada."""
+    print('== 7. Matcher de runtime (matching.corresponde) vs tag SEQ_FAMOSA ==')
+    esperado_total = [199, 296, 4, 5, 7, 3]
+    contagens = []
+    ok = True
+    for i, (nome, seq) in enumerate(SEQUENCIAS):
+        obtidos = ids_por_runtime(linhas, seq)
+        esperados = ids_por_tag(linhas, i)
+        extras = obtidos - esperados
+        faltando = esperados - obtidos
+        contagens.append(len(obtidos))
+        iguais = not extras and not faltando
+        ok = ok and iguais
+        print('  %d %-8s runtime=%3d tag=%3d iguais=%-5s extras=%d faltando=%d' % (
+            i, nome, len(obtidos), len(esperados), iguais,
+            len(extras), len(faltando)))
+    print('  contagens: [%s] (esperado [%s])' % (
+        ','.join(str(c) for c in contagens),
+        ','.join(str(c) for c in esperado_total)))
+    if contagens != esperado_total:
+        ok = False
+        print('  ERRO: contagens diferentes do esperado')
+    print('  resultado: %s' % ('ok' if ok else 'FALHOU'))
+    print()
+    return ok
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('csv', nargs='?', default=CSV_PADRAO,
@@ -345,7 +385,8 @@ def main():
     relatorio_variantes(linhas, crus)
     relatorio_tokenizacao(linhas, crus)
     relatorio_normalizacao(linhas)
-    return 0
+    runtime_ok = relatorio_runtime(linhas)
+    return 0 if runtime_ok else 1
 
 
 if __name__ == '__main__':
