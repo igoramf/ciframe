@@ -113,7 +113,7 @@
      sequência 1 busca por `id=1`; clicar na sequência 2 busca por `id=2`;
      filtro de gênero continua funcionando.
 
-7. [ ] **Adicionar construtor, paginação, gêneros do backend e estado vazio.**
+7. [x] **Adicionar construtor, paginação, gêneros do backend e estado vazio.**
    - No construtor, clicar em um acorde da paleta adiciona ao fim da lista;
      clicar em um acorde já adicionado o remove; “Salvar” faz `POST /sequencias`,
      e com o `id` devolvido dispara a busca. Nome é opcional.
@@ -173,6 +173,7 @@
 | `static/templates/sequencia.html` | Catálogo, construtor, “carregar mais”, estado vazio, remove `ng-hide` |
 | `static/assets/js/app.js` | Paleta de acordes compartilhada |
 | `static/assets/js/controllers/acordes.js` | Passa a consumir a paleta compartilhada |
+| `static/assets/css/app.css` | Estilos do construtor, “carregar mais” e estado vazio |
 | `Dockerfile` | `VOLUME /app/instance` |
 | `.gitignore` | Ignora `instance/` e `*.db` |
 | `README.md` | Comando com `-v ciframe-data:/app/instance` e nota de persistência |

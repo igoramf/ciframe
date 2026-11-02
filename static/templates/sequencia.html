@@ -8,6 +8,40 @@
           <df-hex acorde="{{acordeon.acorde}}" acorde-color="{{acordeon.cor}}" acorde-checked="Sequencia.temAcorde(acordeon)" ng-repeat="acordeon in sequencia.acordes"></df-hex>
         </div>
         <br style="clear: both;">
+
+        <hr class="sequencia-separator">
+        <h4 class="text-center">Monte sua sequência</h4>
+        <p class="text-center sequencia-ajuda">
+          Clique nos acordes na ordem em que devem aparecer. Clique em um acorde já escolhido para removê-lo.
+        </p>
+        <div class="text-center">
+          <button class="btn btn-default" ng-click="Sequencia.alternarConstrutor()">
+            {{Sequencia.mostrarConstrutor ? 'Fechar construtor' : 'Montar sequência'}}
+          </button>
+        </div>
+
+        <div ng-show="Sequencia.mostrarConstrutor" class="sequencia-construtor">
+          <div class="acordes-container" ng-if="Sequencia.sequenciaEmConstrucao.length">
+            <df-hex acorde="{{acordeon.acorde}}" acorde-color="{{acordeon.cor}}" acorde-checked="Sequencia.acordeNaConstrucao(acordeon)" ng-repeat="acordeon in Sequencia.sequenciaEmConstrucao" ng-click="Sequencia.alternarAcorde(acordeon)"></df-hex>
+          </div>
+          <p class="text-center" ng-if="!Sequencia.sequenciaEmConstrucao.length">
+            Nenhum acorde escolhido ainda.
+          </p>
+
+          <div class="acordes-container" ng-repeat="acordesCollection in Sequencia.paletaAcordes">
+            <df-hex acorde="{{acordeon.acorde}}" acorde-color="{{acordeon.cor}}" acorde-checked="Sequencia.acordeNaConstrucao(acordeon)" ng-repeat="acordeon in acordesCollection" ng-click="Sequencia.alternarAcorde(acordeon)"></df-hex>
+          </div>
+          <br style="clear: both;">
+
+          <div class="form-group">
+            <input type="text" class="form-control" maxlength="80" placeholder="Nome (opcional)" ng-model="Sequencia.nomeNovaSequencia">
+          </div>
+          <p class="text-danger" ng-if="Sequencia.erroNovaSequencia">{{Sequencia.erroNovaSequencia}}</p>
+          <button class="btn btn-primary btn-block" ng-click="Sequencia.salvarSequencia()" ng-disabled="Sequencia.salvando || !Sequencia.sequenciaEmConstrucao.length">
+            {{Sequencia.salvando ? 'Salvando...' : 'Salvar e buscar'}}
+          </button>
+        </div>
+
         <button class="search-results-count" ng-if="Sequencia.showSearchResultsCount" ng-click="Sequencia.goToResults()">
           <span class="glyphicon glyphicon-triangle-bottom bounce animated infinite"></span>
           <br>
@@ -40,8 +74,7 @@
 
         <div class="row row-in">
           <div class="col-sm-6 col-lg-4"
-            ng-repeat="music in Sequencia.musics | orderBy:'-popularidade'"
-            ng-hide="music.diferenca.length">
+            ng-repeat="music in Sequencia.musics | orderBy:'-popularidade'">
 
               <div class="music-card" ng-click="Sequencia.goToLirics(music)">
                 <div class="row row-in">
@@ -59,6 +92,24 @@
           </div>
         </div>
 
+        <div class="text-center sequencia-mais" ng-if="Sequencia.temMais">
+          <button class="btn btn-default btn-lg" ng-click="Sequencia.carregarMais()" ng-disabled="Sequencia.carregandoMais">
+            {{Sequencia.carregandoMais ? 'Carregando...' : 'Carregar mais'}}
+          </button>
+        </div>
+
+        <div class="sequencia-vazio" ng-if="Sequencia.buscaRealizada && !Sequencia.musics.length">
+          <h4>Nenhuma música encontrada</h4>
+          <p>
+            A busca procura os acordes da sequência em um bloco contíguo, na mesma ordem,
+            e só encontra músicas cujos acordes pertençam todos ao vocabulário da sequência.
+          </p>
+          <p>
+            Tente remover ou reordenar acordes, ou escolha outra sequência do catálogo.
+          </p>
+        </div>
+
+      </div>
     </div>
   </div>
 </div>
