@@ -7,8 +7,9 @@ similar songs. Full description: [README.md](README.md).
 ## Stack
 
 - Backend: Python 3.9, Flask 3.1, gunicorn. Single file (`main.py`) that
-  loads `data/top/dataset_final.csv` into memory once at startup — there is
-  no database.
+  loads `data/top/dataset_final.csv` into memory once at startup. Songs have
+  no database; custom chord sequences live in SQLite at
+  `instance/sequences.db` (override with `SEQUENCES_DB`).
 - Frontend: AngularJS 1.4.9 + jQuery, loaded from CDN in `static/index.html`,
   no build step. Legacy, and there's no plan to modernize the stack itself —
   but touching it is no longer off-limits when a task needs it; see
@@ -21,8 +22,12 @@ Docker (matches how the app actually ships):
 
 ```
 docker build -t ciframe .
-docker run -p 8080:8080 ciframe
+docker run -p 8080:8080 -v ciframe-data:/app/instance ciframe
 ```
+
+The named volume `ciframe-data` persists the sequence catalog at
+`/app/instance`. Without it, the catalog is lost when the container is
+recreated (`docker rm`).
 
 Or a plain virtualenv:
 

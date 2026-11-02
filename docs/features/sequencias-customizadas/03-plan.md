@@ -130,7 +130,7 @@
      retorna 20; recarregar a página mantém a sequência no catálogo; uma
      sequência impossível mostra o texto de estado vazio.
 
-8. [ ] **Persistir o banco no Docker e documentar o volume.**
+8. [x] **Persistir o banco no Docker e documentar o volume.**
    - Adicionar `VOLUME /app/instance` ao `Dockerfile` e ignorar `instance/` (e
      arquivos `*.db`) em `.gitignore`.
    - Atualizar `README.md` e `AGENTS.md` para
